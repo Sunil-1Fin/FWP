@@ -1,0 +1,1916 @@
+
+
+{
+  "meta": {
+    "name": "ROHIT VITTHAL JADHAV",
+    "date": "2023-11-30",
+    "mobile_number": "9082205480"
+  },
+  "money_sign": {
+    "money_sign": "Opportunistic Lion",
+    "money_sign_desc": "You have a striking demeanour and a curious mind, which means you’re always on the lookout for the next big opportunity. Your formula for success has always been to fill the gaps in your skill set by drawing on the expertise of people in your social circle. This helps you make the most of the options presented to you, even when the window of opportunity is narrow. You’ll do what it takes to emerge ahead of your competitors. Being highly self-motivated allows you to keep exploring new pursuits no matter what the outcome may be. While taking time off to celebrate a significant milestone is important to you, you will not think twice before jumping right back into action if there’s something exciting on the horizon.",
+    "money_sign_behavioural_bias": [
+      {
+        "title": "Overconfidence Bias",
+        "desc": "You may, at times, exhibit unwarranted faith in your own abilities, judgements and knowledge levels, which can manifest as attributing success to your skills and failures to external factors. This bias might convince you to underestimate risks and overestimate returns, which would lead to a highly concentrated portfolio."
+      },
+      {
+        "title": "Self-Control Bias",
+        "desc": "A lack of self-discipline for resisting the temptation to indulge in habits that provide instant gratification can hamper your progress towards achieving long-term goals. This bias could result in you falling short of achieving your financial milestones, and might even mislead you into taking undue risk to compensate for the shortfall."
+      },
+      {
+        "title": "Loss-Aversion Bias",
+        "desc": "For you, the dissatisfaction caused by a monetary loss of a certain amount tends to be much higher than the satisfaction derived from a monetary gain of the same amount. This mindset could encourage irrational risk-taking behaviour for overcoming losses, and excessive cautiousness when dealing with gains. This bias may limit the upside potential of your investment portfolio, while increasing its risk factor"
+      }
+    ]
+  },
+  "gen_profile": {
+    "gen_profile": "Generation 2",
+    "gen_profile_desc": "Skilled professional with a steady income and cautious outlook, who wants to improve the standard of living.",
+    "life_stage": "Building phase",
+    "life_stage_age_range": "26 - 35",
+    "life_stage_desc": [
+      "Focusing on building a strong foundation",
+      "Growing professional skills and expertise",
+      "Taking on more responsibilities",
+      "Building financial stability"
+    ]
+  },
+  "oneview": {
+    "fbs": 61,
+    "assets": [
+      {
+        "title": "Equity",
+        "value": "10667176.50"
+      },
+      {
+        "title": "Real Estate",
+        "value": "12345700.00"
+      },
+      {
+        "title": "Passive Income Assets",
+        "value": "32323200.00"
+      },
+      {
+        "title": "Debt",
+        "value": "8002528616.50"
+      },
+      {
+        "title": "Alternative Investments",
+        "value": "81414140.00"
+      }
+    ],
+    "liabilities": [
+      {
+        "title": "Good Liabilities",
+        "value": "2424240.00"
+      },
+      {
+        "title": "Bad Liabilities",
+        "value": "14901000.00"
+      }
+    ],
+    "insurance": [
+      {
+        "title": "Life Insurance",
+        "value": "116063"
+      },
+      {
+        "title": "Health Insurance",
+        "value": "500000"
+      }
+    ],
+    "income": [
+      {
+        "title": "Regular Income",
+        "value": "676210400"
+      },
+      {
+        "title": "Other Income",
+        "value": "567890700"
+      }
+    ],
+    "expense": [
+      {
+        "title": "Household + Lifestyle",
+        "value": "4000012"
+      },
+      {
+        "title": "Taxes",
+        "value": "529780248.16"
+      }
+    ],
+    "total": {
+      "assets": "8139278833.00",
+      "liabilities": "17325240.00",
+      "income": "1.2441011E+09",
+      "expense": "533780260",
+      "insurance": "616063"
+    }
+  },
+  "assets": {
+    "total": {
+      "market_value": "8139278833.00",
+      "monthly_investments": "12770195530.00"
+    },
+    "table": [
+      {
+        "asset": "Debt Funds",
+        "percentage": "95.56",
+        "asset_class": "Debt",
+        "market_value": "7777780000.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "EPF",
+        "percentage": "1.51",
+        "asset_class": "Debt",
+        "market_value": "123123000.00",
+        "monthly_investments": "131321000.00"
+      },
+      {
+        "asset": "Physical Gold",
+        "percentage": "0.96",
+        "asset_class": "Alternative Investment",
+        "market_value": "77777800.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "Direct Bonds",
+        "percentage": "0.68",
+        "asset_class": "Debt",
+        "market_value": "55555600.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "Rental Yielding (Residential)",
+        "percentage": "0.4",
+        "asset_class": "Real Estate",
+        "market_value": "32323200.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "Corporate FD",
+        "percentage": "0.4",
+        "asset_class": "Debt",
+        "market_value": "32323100.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "REITs/InvITs",
+        "percentage": "0.15",
+        "asset_class": "Real Estate",
+        "market_value": "12345700.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "Bank RD",
+        "percentage": "0.11",
+        "asset_class": "Debt",
+        "market_value": "8888890.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "Equity ETFs",
+        "percentage": "0.11",
+        "asset_class": "Equity",
+        "market_value": "8765440.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "Bank FD",
+        "percentage": "0.04",
+        "asset_class": "Debt",
+        "market_value": "3456790.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "Gold ETFs",
+        "percentage": "0.03",
+        "asset_class": "Alternative Investment",
+        "market_value": "2323220.00",
+        "monthly_investments": "323221000.00"
+      },
+      {
+        "asset": "Direct Cryptos",
+        "percentage": "0.02",
+        "asset_class": "Alternative Investment",
+        "market_value": "1313120.00",
+        "monthly_investments": "12313100000.00"
+      },
+      {
+        "asset": "Equity Mutual Funds",
+        "percentage": "0.02",
+        "asset_class": "Equity",
+        "market_value": "1234570.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "PPF",
+        "percentage": "0.02",
+        "asset_class": "Debt",
+        "market_value": "1234570.00",
+        "monthly_investments": "0.00"
+      },
+      {
+        "asset": "Public Stocks (India)",
+        "percentage": "0.01",
+        "asset_class": "Equity",
+        "market_value": "500500.00",
+        "monthly_investments": "330300.00"
+      },
+      {
+        "asset": "Hybrid Funds",
+        "percentage": "0",
+        "asset_class": "Equity + Debt",
+        "market_value": "333333.00",
+        "monthly_investments": "2223230.00"
+      }
+    ],
+    "pie": [
+      {
+        "particular": "Equity",
+        "percentage": 0
+      },
+      {
+        "particular": "Real Estate",
+        "percentage": 0
+      },
+      {
+        "particular": "Passive Income Assets",
+        "percentage": 0
+      },
+      {
+        "particular": "Debt",
+        "percentage": 98
+      },
+      {
+        "particular": "Alternative Investments",
+        "percentage": 1
+      }
+    ]
+  },
+  "liabilities": {
+    "total": "17325240.00",
+    "table": [
+      {
+        "liability": "Housing Loan",
+        "account_age_in_months": 23,
+        "pending_months": 24.00,
+        "interest_rate": 9.000,
+        "liability_category": "Good",
+        "outstanding_amount": "2424240.00",
+        "emi": "2424.00"
+      },
+      {
+        "liability": "Auto Loan",
+        "account_age_in_months": 345,
+        "pending_months": 98.00,
+        "interest_rate": 7.000,
+        "liability_category": "Bad",
+        "outstanding_amount": "6000000.00",
+        "emi": "7800.00"
+      },
+      {
+        "liability": "7890",
+        "account_age_in_months": 789,
+        "pending_months": 239.00,
+        "interest_rate": 9.000,
+        "liability_category": "Bad",
+        "outstanding_amount": "8901000.00",
+        "emi": "89000.00"
+      }
+    ],
+    "pie": [
+      {
+        "particular": "Good liabilities",
+        "percentage": 14
+      },
+      {
+        "particular": "Bad liabilities",
+        "percentage": 86
+      }
+    ]
+  },
+  "emergency": {
+    "emergency_funds": {
+      "title": "Emergency Funds",
+      "total": "3456790",
+      "ideal_range": "2601547",
+      "comment": "Having an adequate liquidity buffer is an excellent downside protection strategy against situations like job loss, financial emergencies, etc.",
+      "color": "green"
+    },
+    "health_insurance": {
+      "title": "Health Insurance",
+      "total": "500000",
+      "ideal_range": "400000",
+      "comment": "A health insurance cover that’s commensurate with the costs of medical procedures and treatments ensures that your loved ones are financially at ease.",
+      "color": "green"
+    },
+    "life_insurance": {
+      "title": "Life Insurance",
+      "total": "116063",
+      "ideal_range": "7000000",
+      "comment": "Inadequate life cover can be damaging for dependants if the policy owner leaves behind a large amount of liabilities, with only a few assets.",
+      "color": "red"
+    }
+  },
+  "ratios": {
+    "good_liabilities_to_total_assets": {
+      "title": "Good Liabilities-to-Total Assets",
+      "total": "0.0003",
+      "ideal_range": "16.1% - 40.3%",
+      "comment": "It is advisable to use debt optimally when creating valuable assets for the future.",
+      "color": "red"
+    },
+    "bad_liabilities_to_total_assets": {
+      "title": "Bad Liabilities-to-Total Assets",
+      "total": "0.0018",
+      "ideal_range": "Up to 4.5% ",
+      "comment": "It is critical to keep unsecured or high-cost debt under control because, in comparison, a majority of assets yield lower returns.",
+      "color": "green"
+    },
+    "expense_to_income": {
+      "title": "Expense-to-Income",
+      "total": "0.4290",
+      "ideal_range": "Up to 65.9% ",
+      "comment": "Keeping expenses under control reduces the likelihood of encountering a cash flow problem.",
+      "color": "green"
+    },
+    "good_liabilities_linked_emi_to_income": {
+      "title": "Good Liability Linked EMI-to-Income",
+      "total": "0.0000",
+      "ideal_range": "7.1% - 17.7%",
+      "comment": "Having only a few good EMIs (or none) may result in excessive interest payments, which is undesirable unless there are higher-return investment opportunities available.",
+      "color": "red"
+    },
+    "bad_liabilities_linked_emi_to_income": {
+      "title": "Bad Liability Linked EMI-to-Income",
+      "total": "0.0009",
+      "ideal_range": "Up to 10.4% ",
+      "comment": "It is critical to manage bad debt repayment well in order to avoid paying too much interest on high-cost liabilities.",
+      "color": "green"
+    },
+    "investments_to_income": {
+      "title": "Investments-to-Income",
+      "total": "123.1753",
+      "ideal_range": "9.5% - 23.8%",
+      "comment": "While regular and significant savings are necessary for a secure future, it's equally crucial to keep a balanced living and avoid making excessive sacrifices in the here and now.",
+      "color": "red"
+    }
+  },
+  "asset_allocation": {
+    "equity": {
+      "title": "Equity",
+      "total": "0.0013",
+      "ideal_range": "29.7% - 69.8%",
+      "comment": "Keeping equity allocation low could potentially limit the long-term growth potential of a portfolio and may result in lower returns.",
+      "color": "red"
+    },
+    "real_estate": {
+      "title": "Real Estate",
+      "total": "0.0015",
+      "ideal_range": "31% - 56%",
+      "comment": "A low real estate allocation misses out on a valuable way to diversify portfolio and generate consistent returns over time.",
+      "color": "green"
+    },
+    "passive_income_assets": {
+      "title": "Passive Income Assets",
+      "total": "0.0040",
+      "ideal_range": "3.2% - 29.8%",
+      "comment": "Keeping very low or no passive income assets may limit one's ability to generate consistent and reliable streams of income in the long term and increase vulnerability to financial risks.",
+      "color": "red"
+    },
+    "debt": {
+      "title": "Debt",
+      "total": "0.9832",
+      "ideal_range": "7.2% - 32.2%",
+      "comment": "Unless there is a short-term financial objective associated with it, excessive exposure to debt instruments might reduce overall portfolio returns.",
+      "color": "red"
+    },
+    "alternative_investments": {
+      "title": "Alternative Investments",
+      "total": "0.0100",
+      "ideal_range": "Up to 27.3% ",
+      "comment": "Allocating some portion of the portfolio to alternative products provides diversification benefits.",
+      "color": "green"
+    }
+  },
+  "networth": {
+    "networth": "8.121954E+09",
+    "assets": "8.139279E+09",
+    "liabilities": "17325240",
+    "networth_projection": {
+      "table": [
+        {
+          "year": 2023,
+          "cnwt": 812.20,
+          "nwtet": 812.20
+        },
+        {
+          "year": 2024,
+          "cnwt": 16194.75,
+          "nwtet": 912.19
+        },
+        {
+          "year": 2025,
+          "cnwt": 33839.10,
+          "nwtet": 1018.65
+        },
+        {
+          "year": 2026,
+          "cnwt": 54082.19,
+          "nwtet": 1132.53
+        },
+        {
+          "year": 2027,
+          "cnwt": 77310.27,
+          "nwtet": 1254.79
+        },
+        {
+          "year": 2028,
+          "cnwt": 103967.16,
+          "nwtet": 1386.91
+        },
+        {
+          "year": 2029,
+          "cnwt": 134562.96,
+          "nwtet": 1529.53
+        },
+        {
+          "year": 2030,
+          "cnwt": 169683.96,
+          "nwtet": 1683.96
+        },
+        {
+          "year": 2031,
+          "cnwt": 210004.01,
+          "nwtet": 1851.63
+        },
+        {
+          "year": 2032,
+          "cnwt": 256297.63,
+          "nwtet": 2036.50
+        },
+        {
+          "year": 2033,
+          "cnwt": 309455.27,
+          "nwtet": 2240.25
+        },
+        {
+          "year": 2034,
+          "cnwt": 370500.41,
+          "nwtet": 2464.18
+        },
+        {
+          "year": 2035,
+          "cnwt": 440609.58,
+          "nwtet": 2710.92
+        },
+        {
+          "year": 2036,
+          "cnwt": 521135.30,
+          "nwtet": 2981.36
+        },
+        {
+          "year": 2037,
+          "cnwt": 613632.41,
+          "nwtet": 3277.98
+        },
+        {
+          "year": 2038,
+          "cnwt": 719888.39,
+          "nwtet": 3604.68
+        },
+        {
+          "year": 2039,
+          "cnwt": 841958.21,
+          "nwtet": 3962.95
+        },
+        {
+          "year": 2040,
+          "cnwt": 982204.41,
+          "nwtet": 4355.67
+        },
+        {
+          "year": 2041,
+          "cnwt": 1143343.17,
+          "nwtet": 4785.52
+        },
+        {
+          "year": 2042,
+          "cnwt": 1328497.31,
+          "nwtet": 5255.16
+        },
+        {
+          "year": 2043,
+          "cnwt": 1541257.21,
+          "nwtet": 5765.82
+        },
+        {
+          "year": 2044,
+          "cnwt": 1785750.90,
+          "nwtet": 6322.33
+        },
+        {
+          "year": 2045,
+          "cnwt": 2066724.62,
+          "nwtet": 6927.47
+        },
+        {
+          "year": 2046,
+          "cnwt": 2389635.49,
+          "nwtet": 7583.47
+        },
+        {
+          "year": 2047,
+          "cnwt": 2760758.03,
+          "nwtet": 8294.00
+        },
+        {
+          "year": 2048,
+          "cnwt": 3187306.72,
+          "nwtet": 9066.51
+        },
+        {
+          "year": 2049,
+          "cnwt": 3677576.86,
+          "nwtet": 9902.03
+        },
+        {
+          "year": 2050,
+          "cnwt": 4241106.62,
+          "nwtet": 10805.93
+        },
+        {
+          "year": 2051,
+          "cnwt": 4888863.34,
+          "nwtet": 11780.69
+        },
+        {
+          "year": 2052,
+          "cnwt": 5633457.81,
+          "nwtet": 12839.88
+        },
+        {
+          "year": 2053,
+          "cnwt": 6489390.60,
+          "nwtet": 13986.27
+        },
+        {
+          "year": 2054,
+          "cnwt": 7473335.46,
+          "nwtet": 15227.67
+        },
+        {
+          "year": 2055,
+          "cnwt": 8604465.12,
+          "nwtet": 16572.86
+        },
+        {
+          "year": 2056,
+          "cnwt": 9904825.92,
+          "nwtet": 18026.06
+        }
+      ],
+      "retirement_month_year": "MAR '2056",
+      "retirement_cnwt": 99048259200000.00,
+      "retirement_nwtet": 180260600000.00
+    },
+    "value_under_advisory": "8.156604E+09"
+  },
+  "bureau_report_summary": {
+    "credit_score_analysis": {
+      "score": "",
+      "our_evaluation": "",
+      "commentary": ""
+    },
+    "credit_facilities_taken": [
+      {
+        "type_of_facility": "Auto Loan",
+        "total_records": 1,
+        "active_accounts": 1,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Credit Card",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Gold Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Housing Loan",
+        "total_records": 1,
+        "active_accounts": 1,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Other Loan",
+        "total_records": 1,
+        "active_accounts": 1,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Personal Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      }
+    ]
+  },
+  "liability_management": {
+    "table": [
+      {
+        "liability_type": "Good",
+        "current_liability_distribution_outstanding_percentage": "2424240",
+        "current_liability_distribution_emi_percentage": "2424",
+        "suggested_loan_size_range": "1312865676 to 3282571153",
+        "suggested_emi_range": "0 to 0"
+      },
+      {
+        "liability_type": "Bad",
+        "current_liability_distribution_outstanding_percentage": "14901000",
+        "current_liability_distribution_emi_percentage": "96800",
+        "suggested_loan_size_range": "0 to 367081475",
+        "suggested_emi_range": "0 to 0"
+      }
+    ],
+    "total": {
+      "liability_type": "Total",
+      "current_liability_distribution_outstanding_percentage": "17325240.00",
+      "current_liability_distribution_emi_percentage": "99224.0000",
+      "suggested_loan_size_range": "1312865675.7629 to 3649652628.7172",
+      "suggested_emi_range": "0 to 0"
+    },
+    "comments": [
+      "",
+      ""
+    ]
+  },
+  "mf_holding_evaluation": {
+    "table": [
+      {
+        "scheme_name": "HDFC Pharma and Healthcare Fund",
+        "plan": "Direct",
+        "category": "Debt",
+        "scheme_type": "Money Market",
+        "current_value": "72000",
+        "fund_evaluation_score": 0,
+        "fund_evaluation_quality": "High",
+        "excess_annual_expense": "0"
+      },
+      {
+        "scheme_name": "Tata Money Market Fund",
+        "plan": "Direct",
+        "category": "Debt",
+        "scheme_type": "Money Market",
+        "current_value": "72000",
+        "fund_evaluation_score": 83,
+        "fund_evaluation_quality": "High",
+        "excess_annual_expense": "0"
+      },
+      {
+        "scheme_name": "HDFC Pharma and Healthcare Fund",
+        "plan": "Direct",
+        "category": "Debt",
+        "scheme_type": "Money Market",
+        "current_value": "72000",
+        "fund_evaluation_score": 83,
+        "fund_evaluation_quality": "High",
+        "excess_annual_expense": "0"
+      }, {
+        "scheme_name": "Tata Money Market Fund",
+        "plan": "Direct",
+        "category": "Debt",
+        "scheme_type": "Money Market",
+        "current_value": "72000",
+        "fund_evaluation_score": 83,
+        "fund_evaluation_quality": "High",
+        "excess_annual_expense": "0"
+      }, {
+        "scheme_name": "Tata Money Market Fund",
+        "plan": "Direct",
+        "category": "Debt",
+        "scheme_type": "Money Market",
+        "current_value": "72000",
+        "fund_evaluation_score": 83,
+        "fund_evaluation_quality": "High",
+        "excess_annual_expense": "0"
+      }, {
+        "scheme_name": "Tata Money Market Fund",
+        "plan": "Direct",
+        "category": "Debt",
+        "scheme_type": "Money Market",
+        "current_value": "72000",
+        "fund_evaluation_score": 83,
+        "fund_evaluation_quality": "High",
+        "excess_annual_expense": "0"
+      }, {
+        "scheme_name": "Tata Money Market Fund",
+        "plan": "Direct",
+        "category": "Debt",
+        "scheme_type": "Money Market",
+        "current_value": "72000",
+        "fund_evaluation_score": 83,
+        "fund_evaluation_quality": "High",
+        "excess_annual_expense": "0"
+      },
+      
+      {
+        "scheme_name": "Tata Money Market Fund",
+        "plan": "Direct",
+        "category": "Debt",
+        "scheme_type": "Money Market",
+        "current_value": "72000",
+        "fund_evaluation_score": 83,
+        "fund_evaluation_quality": "High",
+        "excess_annual_expense": "0"
+      }
+    ],
+    "total": {
+      "current_value": "72000",
+      "fund_evaluation_score": 83,
+      "excess_annual_expense": "1000"
+    },
+    "comments1": [
+      "*1 Finance score ranges from 0-100. The table above displays scores of the Direct-Growth plans of the respective schemes.",
+      "**Excess Annual Expense are estimates derived from the difference between expense ratios of regular and direct plans, and current value."
+    ],
+    "comments2": [
+      "100% of your MF investments are in Direct plans, which translates to lower expenses and higher returns.",
+      "0% of your equity MFs (by value) are high quality. Consider removing low/medium quality funds from your portfolio. Our equity MF featured list is available at the end of this report, and an evaluation of all equity MFs is available on our MF scoring and ranking page."
+    ]
+  },
+  "tax_planning":{
+    "tax_liability_potential_saving":{
+      "current_taxable_income":"1469550",
+      "tax_liability_comparison_table":[
+        {
+        "regime":"Old Regime",
+        "tax_liability":"1469550",
+        "effective_tax_rate":"30.30",
+        "opted":false,
+        "recommendation": false
+      },
+      {
+        "regime":"New Regime",
+        "tax_liability":"1598560",
+        "effective_tax_rate":"32.96",
+        "opted":true,
+        "recommendation": true
+      }
+    ],
+    "recommendation":{
+      "regime_type":"new",
+      "value":"2593000",
+      "effective_tax_rate":"30.96"
+    },
+    "potential_tax_saving":{
+      "value":"120000",
+      "additional_investment":"298000"
+    }
+    },
+    "tax_deduction_exemption_table":[],
+    "action_of_this_year":["You have opted for Old Regime and based on the details of deductions, it will be beneficial for you to continue with it."]
+  },
+    "creditcard_evaluation":[
+      {
+      "name":"Amazon Pay ICICI",
+      "annual_fee":"Lifetime free card",
+      "best_suited_for":"Transportation, Food and Dining, Shopping, Entertainment, Travel, Luxury",
+      "reward_convertibility":"Cashback will be retained as Reward points. Reward points conversion rate of 1 RP = ₹ 1",
+      "reward_point_redemption":{
+        "flights":"0.00",
+        "vouchers":"0.00",
+        "product_purchases":"0.00",
+        "cashback":"1.00",
+        "air_miles":"0.00",
+        "hotels":"0.00"
+      },
+      "category":[
+        {
+          "name" : "Travel",
+          "type": "good",
+          "description": "Cashback of 1.0% (5% for Amazon Prime members, 3% for non-Amazon members or 2% on Amazon Pay merchant partners)"
+        },
+        {
+          "name" : "Shopping",
+          "type": "good",
+          "description": "Cashback of 1% (5% for Amazon Prime members, 3% for non-Amazon members or 2% on Amazon Pay merchant partners)"
+        },
+        {
+          "name" : "Food and Dining",
+          "type": "good",
+          "description": "Cashback of 1.0%"
+        },
+        {
+          "name" : "Grocery",
+          "type": "bad",
+          "description": "Cashback of 1.0% (5% for Amazon Prime members; 3% for non-Amazon members; 2% on Amazon Pay merchant partners)"
+        },
+        {
+          "name" : "Transportation",
+          "type": "good",
+          "description": "Zero Cashback"
+        },
+        {
+          "name" : "Luxury",
+          "type": "good",
+          "description": "Zero golf rounds and zero lessons across golf courses"
+        },
+        {
+          "name" : "Entertainment",
+          "type": "good",
+          "description": "Cashback of 1.0% (5% for Amazon Prime members, 3% for non-Amazon members or 2% on Amazon Pay merchant partners)"
+        }
+      ],
+      "complimentary_airport_lounge_acess":[
+        {
+          "name" : "Domestic",
+          "type":"bad",
+          "description": "Zero"
+        },
+        {
+          "name" : "International",
+          "type":"good",
+          "description": "Zero"
+        }
+      ]
+    },
+    {
+      "name":"HDFC Bank Regalia",
+      "annual_fee":"text_y",
+      "best_suited_for":"Grocery, Food and Dining, Shopping, Entertainment, Travel",
+      "reward_convertibility":"Reward points conversion rate of 1 RP = ₹ 0.50",
+      "reward_point_redemption":{
+        "flights":"0.50",
+        "vouchers":"0.35",
+        "product_purchases":"0.00",
+        "cashback":"1.20",
+        "air_miles":"0.50",
+        "hotels":"0.80"
+      },
+      "category":[
+        {
+          "name" : "Travel",
+          "type": "good",
+          "description": "Earn RPs at a rate of 2.7% (5x on flights, 10x on hotels, 3x on trains, 5x on buses.)"
+        },
+        {
+          "name" : "Shopping",
+          "type": "good",
+          "description": "Earn RPs at a rate of 2.67% (5x on Amazon, Flipkart, Pantaloons, Myntra, Tata CLiQ, Imagine store)"
+        },
+        {
+          "name" : "Food and Dining",
+          "type": "good",
+          "description": "Earn RPs at a rate of 2.7% (5x on Flipkart grocery)"
+        },
+        {
+          "name" : "Grocery",
+          "type": "bad",
+          "description": "Earn RPs at a rate of 2.67% (5x on Amazon, Flipkart, Pantaloons, Myntra, Tata CLiQ, Imagine store)"
+        },
+        {
+          "name" : "Transportation",
+          "type": "bad",
+          "description": "Zero RPs"
+        },
+        {
+          "name" : "Luxury",
+          "type": "good",
+          "description": "Zero golf rounds and zero lessons across golf courses"
+        },
+        {
+          "name" : "Entertainment",
+          "type": "good",
+          "description": "Earn RPs at a rate of 2.7% (5x on BookMyShow)"
+        }
+      ],
+      "complimentary_airport_lounge_acess":[
+        {
+          "name" : "Domestic",
+          "type":"good",
+          "description": "12"
+        },
+        {
+          "name" : "International",
+          "type":"good",
+          "description": "18"
+        }
+      ]
+    }
+  ],
+  "insurance_policy_evaluation": {
+    "table": [
+      {
+        "policy_name": "TATA AIA Life Smart Plan",
+        "plan_type": "Endowment",
+        "start_date": "23-Jan-20",
+        "policy_tenure": "40 yrs",
+        "annual_premium": "10763",
+        "life_cover": "146442",
+        "premium_paid_till_date": "43052",
+        "premium_payable": "64578",
+        "surrender_value": "29288",
+        "suggested_action": "Surrender",
+        "comment": "",
+        "accured_bonus": "0"
+      },
+      {
+        "policy_name": "SBI Life",
+        "plan_type": "Endowment",
+        "start_date": "12-Dec-90",
+        "policy_tenure": "40 yrs",
+        "annual_premium": "50000",
+        "life_cover": "2500000",
+        "premium_paid_till_date": "1650000",
+        "premium_payable": "150000",
+        "surrender_value": "",
+        "suggested_action": "Continue till maturity",
+        "comment": "",
+        "accured_bonus": "0"
+      },
+      {
+        "policy_name": "SBI Life",
+        "plan_type": "Endowment",
+        "start_date": "12-Dec-90",
+        "policy_tenure": "40 yrs",
+        "annual_premium": "50000",
+        "life_cover": "2500000",
+        "premium_paid_till_date": "1650000",
+        "premium_payable": "150000",
+        "surrender_value": "230000",
+        "suggested_action": "Continue till maturity",
+        "comment": "",
+        "accured_bonus": "0"
+      },
+      {
+        "policy_name": "SBI Life",
+        "plan_type": "Endowment",
+        "start_date": "12-Dec-90",
+        "policy_tenure": "40 yrs",
+        "annual_premium": "50000",
+        "life_cover": "2500000",
+        "premium_paid_till_date": "1650000",
+        "premium_payable": "150000",
+        "surrender_value": "",
+        "suggested_action": "Continue till maturity",
+        "comment": "",
+        "accured_bonus": "0"
+      },
+      {
+        "policy_name": "SBI Life",
+        "plan_type": "Endowment",
+        "start_date": "12-Dec-90",
+        "policy_tenure": "40 yrs",
+        "annual_premium": "50000",
+        "life_cover": "2500000",
+        "premium_paid_till_date": "1650000",
+        "premium_payable": "150000",
+        "surrender_value": "",
+        "suggested_action": "Continue till maturity",
+        "comment": "",
+        "accured_bonus": "0"
+      },
+      {
+        "policy_name": "SBI Life",
+        "plan_type": "Endowment",
+        "start_date": "12-Dec-90",
+        "policy_tenure": "40 yrs",
+        "annual_premium": "50000",
+        "life_cover": "2500000",
+        "premium_paid_till_date": "1650000",
+        "premium_payable": "150000",
+        "surrender_value": "23400",
+        "suggested_action": "Continue till maturity",
+        "comment": "",
+        "accured_bonus": "0"
+      },
+      {
+        "policy_name": "SBI Life",
+        "plan_type": "Endowment",
+        "start_date": "12-Dec-90",
+        "policy_tenure": "40 yrs",
+        "annual_premium": "50000",
+        "life_cover": "2500000",
+        "premium_paid_till_date": "1650000",
+        "premium_payable": "150000",
+        "surrender_value": "320000",
+        "suggested_action": "Continue till maturity",
+        "comment": "",
+        "accured_bonus": "0"
+      }
+
+    ],
+    "total": {
+      "annual_premium": "6396",
+      "life_cover": "116063",
+      "premium_paid_till_date": "185504",
+      "premium_payable": "156776",
+      "surrender_value": "3450000",
+      "accured_bonus": "400"
+    },
+    "comment": [
+      {
+        "suggested_action": "Surrender",
+        "points": [
+          {
+            "description": [
+              "Unless the policy is linked to a financial goal, limit your losses by surrendering as the yield is generally low at 3 - 4 % p.a."
+            ],
+            "plan_type": "Money Back"
+          },
+          {
+            "description": [
+              "The premium payment period, deferral period, and low ongoing coverage make these plans expensive for the coverage provided while generating a yield of 3-4% p.a. approximately."
+            ],
+            "plan_type": "Whole Life"
+          }
+        ]
+      }
+    ],
+    "recommendation_table": [
+      {
+        "plan": "Existing Plan (s)",
+        "cover": "100000000",
+        "annual_premium": "6396"
+      },
+      {
+        "plan": "Recommended (Term Insurance)",
+        "cover": "7000000",
+        "annual_premium": "11383"
+      },
+      {
+        "plan": "Net Savings",
+        "cover": "123000",
+        "annual_premium": "1000000"
+      }
+    ]
+  },
+  "fwp": [
+    {
+      "title": "Emergency Planning",
+      "desc": [
+        "You've wisely thought about emergency planning. Great going with that long-term vision.",
+        "You've thoughtfully taken adequate health cover. Precautions are always better than cure, more than ever."
+      ]
+    },
+    {
+      "title": "Expense and Liability Management",
+      "desc": [
+        "Your bad liabilities to total assets ratio is in the correct range. Great going!",
+        "Kudos! Your saving habits are proving to be fruitful.",
+        "Your bad liabilities are being managed well. Good work with that!"
+      ]
+    },
+    {
+      "title": "Asset Allocation",
+      "desc": [
+        "You should consider exploring more passive income sources. It will help you attain financial well-being earlier.",
+        "You've excelled at investing in real estate—keep monitoring market stability."
+      ]
+    }
+  ],
+  "next_three_months_action_plan": {
+    "table": [
+      {
+        "particular": "Income",
+        "amount": "311025280"
+      },
+      {
+        "particular": "Household & Lifestyle Expenses",
+        "amount": "1000003"
+      },
+      {
+        "particular": "Tax Expenses",
+        "amount": "132445062.04"
+      },
+      {
+        "particular": "EMIs",
+        "amount": "297672.00"
+      },
+      {
+        "particular": "Planned Investments",
+        "amount": "38310657024"
+      },
+      {
+        "particular": "Surplus for the Period",
+        "amount": "-3.8133375E+10"
+      }
+    ],
+    "comments": [
+      {
+        "title": "Emergency Planning",
+        "desc": ["Purchase life cover of around ₹2.0-₹3.5Cr via term insurance to get adequately covered.","Get a health insurance cover of ₹10.0L-₹15.0L to ensure that you are sufficiently protected.","Reduce your liquid investments from ₹35.0L (₹15.0L in saving account and ₹20.0L in bank FDs) to ₹12.0L (equivalent to 6 months of your fixed expenses)."]
+      },
+      {
+        "title": "Expense and Liability Management",
+        "desc": ["Use your excess liquid investments to pay down bad liabilities (auto and personal loan).","Study the section on 'Building a Strong Credit Profile' under 'Best Practices' for suggestions on improving your credit profile.","Study the section on 'Building a Strong Credit Profile' under 'Best Practices' for suggestions on improving your credit profile."]
+      },
+      {
+        "title": "Asset Allocation",
+        "desc": ["Increase your SIPs in equity mutual funds to improve your equity allocation (Refer our featured list on the following pages for high quality equity mutual funds)."]
+      }
+    ],
+    "cashflow_comments":[
+      {
+        "name": "Emergency Planning",
+        "comments": [
+          {
+          "title":"Increase monthly investments to ₹ 38,000",
+          "suggestion":"Start an additional SIP in equity MFs of ₹ 15,000."
+        },
+        {
+          "title":"Reduce total bad liability outstanding to ₹ 50,000",
+          "suggestion":"Prepay your personal loan."
+        },
+        {
+          "title":"Increase monthly investments to ₹ 60,000",
+          "suggestion":"Start investing monthly ₹ 30k in equity MFs and ₹ 30K in Gold ETFs/SGBs/Silver ETF."
+        }
+      ]
+      },
+      {
+        "name": "Asset Allocation",
+        "comments": [
+          {
+          "title":"Increase equity exposure to ₹ 5,00,000",
+          "suggestion":"Allocate ₹ 1,00,000 each month to equity MFs by liquidating your bank FDs."
+        },
+        {
+          "title":"Reduce debt exposure to ₹ 7,00,000",
+          "suggestion":"Liquidate ₹ 1,00,000 bank FDs each month to move to equity MFs."
+        }
+      ]
+      },
+      {
+        "name": "Expense and Liability Management",
+        "comments": [
+          {
+          "title":"Increase monthly investments to ₹ 38,000",
+          "suggestion":"Start an additional SIP in equity MFs of ₹ 15,000."
+        },
+        {
+          "title":"Reduce total bad liability outstanding to ₹10,000",
+          "suggestion":"Prepay your personal loan."
+        }
+        
+      ]
+      }
+    ]
+  },
+  "featured_list": {
+    "term_insurance": {
+      "table": [
+        {
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Max.png",
+          "insurer": "Max Life",
+          "plan": "Max Life Smart Secure Plus",
+          "pros": [
+            "Slightly less expensive than other competing products",
+            "Option to exit the plan while it is still active and receive premium refunds",
+            "Terminal illness coverage at no cost",
+            "Coverage of 64 Critical illnesses, which is a separate cover in addition to the base cover amount"
+          ],
+          "cons": [
+            "Less options to customise claim payouts",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "insurer": "TATA-AIA Life",
+          "plan": "Sampoorna Raksha Supreme Vitality Protect",
+          "pros": [
+            "Claim Settlement Ratio (CSR) of 98.53%",
+            "Rewards for healthy choices with an inbuilt wellness program",
+            "Free annual health check-up every year",
+            "Value-added services include 4 medical teleconsultations per month",
+            "In-built terminal illness benefit",
+            "Option to increase coverage at key life stages - marriage and childbirth"
+          ],
+          "cons": [
+            "Less options to customise claim payouts",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/HDFC.png",
+          "insurer": "HDFC Life",
+          "plan": "HDFC Life Click 2 Protect Super",
+          "pros": [
+            "Claim Settlement Ratio (CSR) of 98.66%",
+            "Option to increase coverage at key life stages - marriage and childbirth",
+            "Option to exit the plan while it is still active and receive premium refunds",
+            "Acceleration of death benefit upon diagnosis of terminal illnesses up to age 80",
+            "Availability of 'Waiver of Premium' rider on diagnosis of critical illness, and total and permanent disability",
+            "Option to choose additional cover for spouse"
+          ],
+          "cons": [
+            "Expensive than other competing products",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "health_insurance": {
+      "table": [
+        {
+          "feature_list_logo":"https://staticcontent.s3.ap-south-1.amazonaws.com/Website_team/3.png",
+          "insurer": "Manipal Cigna",
+          "plan": "ProHealth Prime Protect",
+          "pros": [
+            "No room rent sublimits",
+            "No Claim Bonus (NCB) benefit is greater than 150% over time",
+            "Sum insured can be recharged up to the cover amount for related diseases",
+            "No co-pay in the policy",
+            "Rewards for healthy behaviour are available",
+            "8,500 Cashless Network Hospitals"
+          ],
+          "cons": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "feature_list_logo":"https://staticcontent.s3.ap-south-1.amazonaws.com/Website_team/11.png",
+          "insurer": "Niva Bupa Health",
+          "plan": "Health ReAssure",
+          "pros": [
+            "No room rent sublimits",
+            "No Claim Bonus (NCB) benefit over time is up to 100%",
+            "Sum insured can be recharged up to the cover amount for related diseases",
+            "No co-pay in the policy",
+            "Rewards for healthy behaviour are available",
+            "8600 cashless network hospitals"
+          ],
+          "cons": [
+            "Pre-existing diseases are covered after 3 years",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "feature_list_logo":"https://staticcontent.s3.ap-south-1.amazonaws.com/Website_team/6.png",
+          "insurer": "Care Health",
+          "plan": "Care Plus",
+          "pros": [
+            "No room rent sublimits",
+            "No Claim Bonus (NCB) benefit is greater than 150% over time",
+            "Recharge of sum insured upto the cover amount is available for an unlimited number of times for unrelated diseases",
+            "No co-pay in the policy",
+            "Rewards for healthy behaviour are available",
+            "There are 19000 cashless network hospitals, which is the most of any insurer"
+          ],
+          "cons": [
+            "Pre-existing diseases are covered after 3 years",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "feature_list_logo":"https://staticcontent.s3.ap-south-1.amazonaws.com/Website_team/1.png",
+          "insurer": "Aditya Birla Health",
+          "plan": "Activ Health Platinum Enhanced",
+          "pros": [
+            "No room rent sublimits",
+            "No Claim Bonus (NCB) benefit can be up to 100% over time",
+            "No co-pay in the policy",
+            "Rewards for healthy behaviour are available",
+            "10,051 cashless network hospitals",
+            "Sum insured can be recharged once per policy year up to the cover amount"
+          ],
+          "cons": [
+            "Pre-existing diseases are covered after 3 years",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "feature_list_logo":"https://staticcontent.s3.ap-south-1.amazonaws.com/Website_team/16.png",
+          "insurer": "SBI General",
+          "plan": "Aarogya Supreme Plus-Gold",
+          "pros": [
+            "No Claim Bonus (NCB) benefit over time is up to 100% of the base sum insured in a policy year, with an optional cover offering an increase of up to 200%",
+            "No Co-pay in the policy",
+            "Annual health check-ups available from the first renewal year",
+            "23,000 cashless network hospitals"
+          ],
+          "cons": [
+            "Pre-existing diseases are covered after 4 years",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "feature_list_logo":"https://staticcontent.s3.ap-south-1.amazonaws.com/Website_team/16.png",
+          "insurer": "Navi General",
+          "plan": "Navi Health Plan 5",
+          "pros": [
+            "No Claim Bonus (NCB) benefit is greater than 150% over time",
+            "Recharge of sum insured upto the cover amount is available for an unlimited number of times for unrelated diseases",
+            "Pre-existing diseases are covered after 1 year",
+            "No Co-pay in the policy",
+            "Rewards for healthy behaviour are available",
+            "10,000 Cashless Network Hospitals"
+          ],
+          "cons": [
+            "Low Claim Settlement Ratio (CSR) of 83%",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "equity_mutual_funds": {
+      "large_cap": [
+        {
+          "category": "Large Cap Index",
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/HDFC.png",
+          "fund_scheme": "HDFC Index Fund-S&P BSE Sensex",
+          "one_finance_score": 96,
+          "strengths": [
+            "Accurate tracking of performance of underlying benchmark index with minimal deviation",
+            "Large AUM of ₹ 5467.7 Cr"
+          ],
+          "weakness": [
+            "",
+            ""
+          ]
+        },
+        {
+          "category": "Large Cap Index",
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/mutual-funds/wordpress/NAVI.png",
+          "fund_scheme": "Navi Nifty 50 Index Fund",
+          "one_finance_score": 90,
+          "strengths": [
+            "Accurate tracking of performance of underlying benchmark index with minimal deviation",
+            "Low expense ratio of 0.06% as compared with category average of 0.26%"
+          ],
+          "weakness": [
+            "Only 1 year of track record",
+            ""
+          ]
+        },
+        {
+          "category": "Large Cap Index",
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/mutual-funds/wordpress/Axis+MF.png",
+          "fund_scheme": "Axis Nifty 50 Index Fund",
+          "one_finance_score": 90,
+          "strengths": [
+            "Accurate tracking of performance of underlying benchmark index with minimal deviation",
+            "Low expense ratio of 0.12% as compared with category average of 0.26%"
+          ],
+          "weakness": [
+            "Only 1 year of track record",
+            ""
+          ]
+        }
+      ],
+      "flexi_cap": [
+        {
+          "category": "Flexicap Fund",
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "fund_scheme": "Parag Parekh Flexi Cap Fund",
+          "one_finance_score": 99,
+          "strengths": [
+            "Consistency in delivering high risk-adjusted returns by actively managing funds between large cap, midcap, and smallcap",
+            "Strong ability to outperform benchmark returns",
+            "Low expense ratio of 0.66% versus category average of 0.84%"
+          ],
+          "weakness": [
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "category": "Flexicap Fund",
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "fund_scheme": "Kotak Flexicap Fund",
+          "one_finance_score": 97,
+          "strengths": [
+            "Consistency in delivering high risk-adjusted returns by actively managing funds between large cap, midcap and smallcap",
+            "Low expense ratio of 0.64% versus category average of 0.84%"
+          ],
+          "weakness": [
+            "",
+            ""
+          ]
+        },
+        {
+          "category": "Flexicap Fund",
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "fund_scheme": "Franklin India Flexi Cap Fund",
+          "one_finance_score": 94,
+          "strengths": [
+            "Consistency in delivering high risk-adjusted returns by actively managing funds between large cap, midcap and smallcap"
+          ],
+          "weakness": [
+            "High expense ratio of 0.96% versus category average of 0.84%"
+          ]
+        }
+      ]
+    },
+    "debt_mutual_fund": {
+      "liquid_funds": [
+        {
+          "category_id": 225,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "Aditya Birla SL Liquid Fund",
+          "investment_horizon": "Upto 1 year",
+          "strength": [
+            "Impressive history of consistency with an annual CAGR of 6.86% since inception",
+            "Highest YTM of 7.14% in the category as compared to category average of 6.99%",
+            "Enhances investor security through a diverse portfolio of high-grade bond issues"
+          ],
+          "weakness": [
+            "High expense ratio of 0.21% versus category average of 0.16%",
+            "",
+            ""
+          ]
+        },
+        {
+          "category_id": 225,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "Nippon India Liquid Fund",
+          "investment_horizon": "Upto 1 year",
+          "strength": [
+            "Track record of steady performance, with a CAGR of 6.84% since inception",
+            "Competitive YTM of 7.06% as compared to category average of 6.99%",
+            "Features a diversified portfolio of high-quality bond issues"
+          ],
+          "weakness": [
+            "Slightly higher expense ratio of 0.20% versus category average of 0.16%",
+            "",
+            ""
+          ]
+        }
+      ],
+      "short_term": [
+        {
+          "category_id": 226,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "ICICI Pru Short Term Fund",
+          "investment_horizon": "1 to 3 years",
+          "strength": [
+            "Robust performance record, with a CAGR of 8.53% since inception",
+            "Highest YTM of 7.97% comfortably surpassing category average of 7.52%",
+            "Maintains a diverse selection of high-quality bond issues"
+          ],
+          "weakness": [
+            "High expense ratio of 0.4% versus category average of 0.35%",
+            "",
+            ""
+          ]
+        },
+        {
+          "category_id": 226,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "HDFC Short Term Debt Fund",
+          "investment_horizon": "1 to 3 years",
+          "strength": [
+            "History of consistent performance, with a CAGR of 8.05% since inception",
+            "Favourable YTM of 7.82% compared to category average of 7.52%",
+            "Boasts a diverse and high-quality bond portfolio"
+          ],
+          "weakness": [
+            "Slightly higher expense ratio of 0.37% versus category average of 0.35%",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "dynamic_bond": [
+        {
+          "category_id": 227,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "ICICI Pru All Seasons Bond Fund",
+          "investment_horizon": "3 to 5 years",
+          "strength": [
+            "Solid track record of stable performance, with a CAGR of  9.76% since inception",
+            "Highest YTM of 7.93% in category as compared to category average of 7.42%",
+            "Versatile and well-diversified portfolio of high-quality bond issues"
+          ],
+          "weakness": [
+            "High expense ratio of 0.62% versus category average of 0.51%",
+            "",
+            ""
+          ]
+        },
+        {
+          "category_id": 227,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "Kotak Dynamic Bond Fund",
+          "investment_horizon": "3 to 5 years",
+          "strength": [
+            "Steady performance over time, with a CAGR of  8.63% since inception",
+            "High YTM of 7.6% compared to category average of 7.42%",
+            "Carries a low expense ratio of 0.40% versus category average of 0.51%",
+            "Balances risk-reward profile with portfolio of diversified and high-quality bonds"
+          ],
+          "weakness": [
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "hybrid_mutual_fund": {
+      "balanced_advantage": [
+        {
+          "category_id": 244,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "ICICI Pru Balanced Advantage Fund",
+          "investment_horizon": "3 to 5 years",
+          "strength": [
+            "Strong performance record, with a CAGR of 11.04% since inception",
+            "Consistency in delivering high risk-adjusted returns by actively managing funds between equity and debt",
+            "High yield-to-maturity (YTM) on debt portfolio of 7.65% versus category average of 6.92%",
+            "Strong ability to outperform benchmark returns"
+          ],
+          "weakness": [
+            "High expense ratio of 0.90% versus category average of 0.69%",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "category_id": 244,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "HDFC Balanced Advantage Fund",
+          "investment_horizon": "3 to 5 years",
+          "strength": [
+            "Robust performance record, with a CAGR of 14.75% since inception",
+            "Consistency in delivering high risk-adjusted returns by actively managing funds between equity and debt",
+            "High yield-to-maturity (YTM) on debt portfolio of 7.51% versus category average of 6.92%",
+            "Strong ability to outperform benchmark returns"
+          ],
+          "weakness": [
+            "High expense ratio of 0.84% versus category average of 0.69%",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "aggressive_hybrid": [
+        {
+          "category_id": 245,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "ICICI Pru Equity & Debt Fund",
+          "investment_horizon": "3 to 5 years",
+          "strength": [
+            "Robust performance record, with a CAGR of 17.21% since inception",
+            "Consistency in delivering high risk-adjusted returns by actively managing funds between equity and debt",
+            "High YTM on debt portfolio of 7.65% versus category average of 7.54%",
+            "Strong ability to outperform benchmark returns"
+          ],
+          "weakness": [
+            "High expense ratio of 1.11% versus category average of 0.89%",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "category_id": 245,
+          "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+          "name": "HSBC Aggressive Hybrid Fund",
+          "investment_horizon": "3 to 5 years",
+          "strength": [
+            "Robust performance record, with a CAGR of 13.93% since inception",
+            "Consistency in delivering high risk-adjusted returns by actively managing funds between equity and debt",
+            "Strong ability to outperform benchmark returns"
+          ],
+          "weakness": [
+            "High expense ratio of 1.15% versus category average of 0.89%",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    "credit_card": [
+      {
+        "card_name": "IDFC Power+ Card",
+        "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+        "card_type": "Best low fee fuel card",
+        "annual_fee": "₹ 499 + GST (fee waiver on spending ₹ 1.5 lakhs in the preceding year)",
+        "eligibility": "Age above 21 years",
+        "best_suited_for": "Grocery, Transportation",
+        "best_reward_points_conversion_rate": "0.75-for-1 on e-commerce vouchers (FIRST Rewards portal)",
+        "strength": [
+          "Accelerated rewards on base rate of 2% on household expenses: groceries (8x); transportation (8x on HPCL outlets); utilities (8x)",
+          "4 complimentary domestic airport lounge access at participating lounges",
+          "Comprehensive insurance including air accidental cover (₹ 2 lakhs), credit shield (₹ 75,000), purchase protection (₹ 25,000)"
+        ],
+        "weakness": [
+          "Interest rate charge of 42% per annum",
+          "Annual fee waiver on spending more than ₹ 1.5 lakhs in the preceding year",
+          ""
+        ]
+      },
+      {
+        "card_name": "HDFC Regalia Gold Card",
+        "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+        "card_type": "Best low fee multi-purpose card",
+        "annual_fee": "₹ 2,500 + GST (fee waiver on spending ₹ 4 lakhs in the preceding year)",
+        "eligibility": "Age of 21-60 years and minimum salary/ITR income of ₹ 12 lakhs per annum",
+        "best_suited_for": "Grocery, Transportation, Food & Dining, Shopping, Entertainment, Travel",
+        "best_reward_points_conversion_rate": "0.65-for-1 on flight/hotel bookings (HDFC SmartBuy portal)",
+        "strength": [
+          "Accelerated rewards on base rate of 2.67% on household & lifestyle expenses: groceries (5x on Flipkart); transportation (5x on Ola cabs); clothing & fashion (5x on Marks & Spencer, Nykaa and Myntra); entertainment (5x on BookMyShow); technology & electronics (5x on Reliance Digital); and travel & leisure (5x on flights, 10x on hotels, 3x on IRCTC, 5x on Redbus)",
+          "12 domestic and 6 international complimentary airport lounge access per year at participating lounges",
+          "Comprehensive insurance including air accidental cover (₹ 1 crore), overseas hospitalisation (₹ 15 lakhs) and credit shield (₹ 9 lakhs)"
+        ],
+        "weakness": [
+          "No complementary golf round and lessons",
+          "Interest rate charge of 43.8% per annum",
+          "Annual fee waiver on spending more than ₹4 lakhs in the preceding year"
+        ]
+      },
+      {
+        "card_name": "Axis Magnus Card",
+        "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+        "card_type": "Best premium lifestyle card",
+        "annual_fee": "₹ 12,500 + GST (fee waiver on spending ₹ 25 lakhs in the preceding year)",
+        "eligibility": "Age of 18-70 years and minimum salary/ITR income of ₹ 18 lakhs per annum",
+        "best_suited_for": "Food & Dining, Shopping, Entertainment, Travel",
+        "best_reward_points_conversion_rate": "0.4-for-1 on travel, dining and apparel vouchers (EDGE Rewards portal)",
+        "strength": [
+          "Accelerated rewards on base accrual rate of 6% on lifestyle expenses: clothing & fashion (10x on Pantaloons, 5x on Nyka/Tata CLiQ); technology & electronics (5x on Croma); food & dining (40% off on Easydiner and 5x on Swiggy/Zomato); and entertainment (buy one movie/non-movie ticket and get upto ₹500 off on second ticket on BookMyShow)",
+          "Unlimited domestic and international airport lounge access at participating lounges"
+        ],
+        "weakness": [
+          "No air accident cover or emergency hospitalisation cover on domestic/international travel",
+          "Interest rate charge of 42.58% per annum"
+        ]
+      },
+      {
+        "card_name": "HDFC Diners Club Black Card",
+        "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+        "card_type": "Best premium multi-purpose card",
+        "annual_fee": "₹ 10,000 + GST (fee waiver on spending ₹ 5 lakhs in the preceding year)",
+        "eligibility": "Age of 21-60 years and minimum salary/ITR income of ₹ 21 lakhs per annum",
+        "best_suited_for": "Grocery, Food & Dining, Shopping, Entertainment, Travel, Luxury",
+        "best_reward_points_conversion_rate": "1-for-1 on flight/hotel booking (HDFC SmartBuy portal)",
+        "strength": [
+          "Accelerated rewards on base rate of 3.3% on household and lifestyle expenses: groceries (3x on Flipkart); food & dining (2x on weekend dining and 3x on Swiggy/Zomato); entertainment (3x on BookMyShow); clothing & fashion (3x on Amazon, Flipkart, Pantaloons, Myntra, Tata CLiQ); and travel & leisure (5x on flights, 10x on hotels, 3x on trains, 5x on buses)",
+          "6 complimentary golf games per quarter across domestic/international courses",
+          "Unlimited domestic and international airport lounge access at participating lounges"
+        ],
+        "weakness": [
+          "No complimentary golf lessons",
+          "",
+          ""
+        ]
+      },
+      {
+        "card_name": "HDFC Infinia Card",
+        "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+        "card_type": "Best premium all-purpose luxury card",
+        "annual_fee": "₹ 12,500 + GST (fee waiver on spending ₹ 10 lakhs in the preceding year)",
+        "eligibility": "Age of 18-70 years",
+        "best_suited_for": "Grocery, Food & Dining, Shopping, Entertainment, Travel, Luxury",
+        "best_reward_points_conversion_rate": "1-for-1 on flight/hotel bookings (HDFC SmartBuy portal)",
+        "strength": [
+          "Accelerated rewards on base rate of 3.3% on household and lifestyle expenses: groceries (5x on Flipkart); food & dining (5x on Swiggy/Zomato, additional 15% off via Swiggy Dineout); entertainment (5x on BookMyShow); clothing & fashion (5x on Amazon, Flipkart, Pantaloons, Myntra, Tata CLiQ); and technology & electronics (5x on Imagine store, Amazon, Flipkart)",
+          "Unlimited complimentary golf rounds and coaching across India",
+          "Unlimited domestic and international airport lounge access at participating lounges"
+        ],
+        "weakness": [
+          "Invite-only credit card",
+          "No travel insurance cover",
+          ""
+        ]
+      }
+    ],
+    "housing_lenders":[{
+      "lender_name":"ICICI Bank",
+      "best_for":"Best Customer Service",
+      "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+      "interest_rate":"9.25% - 10.05%",
+      "processing_fees":"0.50% - 2.00% of loan amount (min ₹ 3,000)  + GST",
+      "grievance_redressal_process":"User-friendly",
+      "strength":[
+                "Facilitates a streamlined loan application process with a wide range of accepted documents",
+                "Provides easy-to-understand interest rates and clear processing fee details online, promoting transparency",
+                "Prioritises customer needs with an efficient online complaint system and emphasis on quick grievance resolution",
+                ""
+              ],
+      "weakness":[
+                "",
+                "",
+                "",
+                ""
+              ]
+
+    },
+    {
+      "lender_name":"HDFC Bank",
+      "best_for":"Best Interest Rate",
+      "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+      "interest_rate":"8.70% - 9.30%",
+      "processing_fees":"Upto 0.50% of loan amount (min ₹ 3,000) + GST",
+      "grievance_redressal_process":"Moderately effective",
+      "strength":[
+                "Accepts a wide variety of personal documents, potentially simplifying the application process",
+                "Clearly displays interest rates and processing fees based on employment status on the website, avoiding hidden charges",
+                "Offers potential for fee waivers or interest rate reductions for borrowers with good credit profiles",
+                ""
+              ],
+      "weakness":[
+                "",
+                "",
+                "",
+                ""
+              ]
+
+    },
+    {
+      "lender_name":"SBI Bank",
+      "best_for":"Best Overall Lender",
+      "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+      "interest_rate":"9.15% - 10.05%",
+      "processing_fees":"0.35% of loan amount (min ₹ 2,000 & max ₹ 10,000) + GST",
+      "grievance_redressal_process":"Moderately effective",
+      "strength":[
+                "Simplifies the borrowing journey by providing a clear and broad list of documents",
+                "Provides clear and competitive interest rates along with transparent processing fees disclosures, promoting informed decision-making",
+                "Enjoys a strong reputation among real estate builders and has a well-established physical presence, expanding home-buying options for borrowers",
+                ""
+              ],
+      "weakness":[
+                "Experiences delays in resolving customer grievances, indicating a need for improved service speed",
+                "",
+                "",
+                ""
+              ]
+
+    },
+    {
+      "lender_name":"LIC Housing",
+      "best_for":"Lowest Processing Fees",
+      "feature_list_logo":"https://imaages-hosting-1fin.s3.ap-south-1.amazonaws.com/assets/fund-logos/Term+insurance+logos/Tata.png",
+      "interest_rate":"8.40% - 10.00%",
+      "processing_fees":"0.25% of loan amount  (max ₹ 15,000) + GST",
+      "grievance_redressal_process":"Poorly structured",
+      "strength":[
+                "Offers highly competitive interest rates and some of the lowest processing fees among housing lenders",
+                "Clearly displays interest rates on the website, based on factors like loan amount, credit score, and employment status",
+                "Provides loans for purchasing plots of land, expanding the possibilities for borrowers",
+                ""
+              ],
+      "weakness":[
+                "Has a poorly designed grievance redressal process, likely leading to slow resolutions and customer dissatisfaction",
+                "Lack of presence in Tier II and Tier III cities/towns may restrict accessibility for some borrowers",
+                "",
+                ""
+              ]
+
+    }]
+  },
+  "our_assumption": {
+    "assets": [
+      {
+        "asset_class": "Equity",
+        "return_percentage": "10% - 15%",
+        "risk_level": "Moderate to High",
+        "examples": [
+          "Direct equity",
+          "Equity funds",
+          "International/overseas funds"
+        ]
+      },
+      {
+        "asset_class": "Real Estate",
+        "return_percentage": "5% - 10%",
+        "risk_level": "Low to High",
+        "examples": [
+          "Occupied home",
+          "Commercial property",
+          "Land"
+        ]
+      },
+      {
+        "asset_class": "Passive Income Assets",
+        "return_percentage": "7% - 15%",
+        "risk_level": "Low to High",
+        "examples": [
+          "Rental yielding property",
+          "REITs",
+          "InvITs"
+        ]
+      },
+      {
+        "asset_class": "Debt",
+        "return_percentage": "4% - 10%",
+        "risk_level": "Very Low to High",
+        "examples": [
+          "Safe Deposits",
+          "Debt Funds",
+          "EPF/PPF"
+        ]
+      },
+      {
+        "asset_class": "Alternative Investments",
+        "return_percentage": "8% - 30%",
+        "risk_level": "Low to Very High",
+        "examples": [
+          "Gold",
+          "Digital assets",
+          "Art and Collectibles"
+        ]
+      }
+    ],
+    "yoy_growth_to_income": [
+      {
+        "life_stage": "Building",
+        "age_range": "26-35",
+        "income_growth": "-15%"
+      },
+      {
+        "life_stage": "Growth",
+        "age_range": "36-45",
+        "income_growth": "20%"
+      },
+      {
+        "life_stage": "Sustainability ",
+        "age_range": "46-55",
+        "income_growth": "8%"
+      },
+      {
+        "life_stage": "Pre-Retirement",
+        "age_range": "56-60",
+        "income_growth": "19%"
+      }
+    ],
+    "yoy_growth_expense": "10%",
+    "liabilities_interest_ratio": [
+      {
+        "liabilities": "Housing Loan",
+        "interest_rate_range": "8% - 12%"
+      },
+      {
+        "liabilities": "Auto Loan",
+        "interest_rate_range": "8% - 12%"
+      },
+      {
+        "liabilities": "Personal Loan",
+        "interest_rate_range": "11% - 15%"
+      },
+      {
+        "liabilities": "Education Loan",
+        "interest_rate_range": "8% - 12%"
+      }
+    ]
+  }
+}

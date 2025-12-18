@@ -1,0 +1,1086 @@
+{
+  "meta": {
+    "name": "SHUBHAM SANTOSH SURVASE",
+    "date": "2025-10-13",
+    "mobile_number": "7249339527"
+  },
+  "money_sign": {
+    "money_sign": "Vigilant Turtle",
+    "money_sign_risk_category": "Low Risk",
+    "money_sign_desc": "You’re an incredibly composed and grounded individual with a strong sense of self-control, which comes from being satisfied with your achievements. You firmly believe in working hard to achieve your goals and follow a very systematic and disciplined approach while solving problems across different facets of your life. You dislike uncertainty because it leaves you feeling anxious, and you’re apprehensive about deviating from tried-and-tested conventions as you believe it exposes you to unwanted risks.\n\n You’re extremely skilled at negotiating difficult situations by applying a watertight system of checks and balances that you’ve established over time. You’re careful and highly observant, which allows you to anticipate undesirable outcomes and prepare in advance. You believe in taking one step at a time, and that holds you in good stead.",
+    "money_sign_behavioural_bias": [
+      {
+        "title": "Status Quo Bias",
+        "desc": "You aren’t keen to make changes to your life unless absolutely necessary, and would rather choose options that require minimal effort. This restricts you from exploring more beneficial opportunities. This bias could lead to you sticking to financial instruments that do not align with your financial traits and/or goals, because you’re not considering better options."
+      },
+      {
+        "title": "Endowment Bias",
+        "desc": "You’re prone to placing a higher value on an inherited or purchased asset than its fair market value. Consequently, you might hold on to such assets even if the future prospects are not very positive. Because of this bias, you may continue to stick with assets that you’re familiar with instead of scouting for better opportunities, which would result in an unsuitable asset allocation."
+      },
+      {
+        "title": "Regret-Aversion Bias",
+        "desc": "You worry about incurring losses that arise from independent decision-making, which can either result in a preference for inaction to avoid the sting of regret, or transpire into exhibiting herd behaviour. This bias can cause you to become too conservative in your approach and to default to low-risk or popular financial instruments, which may not be the best choice for achieving your long-term milestones."
+      }
+    ]
+  },
+  "gen_profile": {
+    "gen_profile": "Generation 2",
+    "gen_profile_desc": "Skilled professional with a steady income and cautious outlook, who wants to improve the standard of living.",
+    "life_stage": "Building phase",
+    "life_stage_age_range": "26 - 35",
+    "life_stage_desc": [
+      "Focusing on building a strong foundation",
+      "Growing professional skills and expertise",
+      "Taking on more responsibilities",
+      "Building financial stability"
+    ]
+  },
+  "oneview": {
+    "assets": [
+      {
+        "title": "Equity",
+        "value": "0"
+      },
+      {
+        "title": "Real Estate",
+        "value": "0"
+      },
+      {
+        "title": "Passive Income Assets",
+        "value": "0"
+      },
+      {
+        "title": "Debt",
+        "value": "27000"
+      },
+      {
+        "title": "Alternative Investments",
+        "value": "0"
+      }
+    ],
+    "liabilities": [
+      {
+        "title": "Good Liabilities",
+        "value": "400000"
+      },
+      {
+        "title": "Bad Liabilities",
+        "value": "60000"
+      }
+    ],
+    "insurance": [
+      {
+        "title": "Life Insurance",
+        "value": "0"
+      },
+      {
+        "title": "Health Insurance",
+        "value": "0"
+      }
+    ],
+    "income": [
+      {
+        "title": "Regular Income",
+        "value": "860000"
+      },
+      {
+        "title": "Other Income",
+        "value": "0"
+      }
+    ],
+    "expense": [
+      {
+        "title": "Fixed Expenses",
+        "value": "420000"
+      },
+      {
+        "title": "Variable Expenses",
+        "value": "42000"
+      },
+      {
+        "title": "Miscellaneous",
+        "value": "35000"
+      },
+      {
+        "title": "Taxes",
+        "value": "0"
+      }
+    ],
+    "total": {
+      "assets": "27000",
+      "liabilities": "460000",
+      "expense": "497000",
+      "income": "860000",
+      "insurance": "0"
+    },
+    "fbs": 29
+  },
+  "assets": {
+    "total": {
+      "market_value": "27000",
+      "monthly_investments": "3500"
+    },
+    "table": [
+      {
+        "asset": "Savings",
+        "asset_class": "Debt",
+        "market_value": "20000",
+        "monthly_investments": "0",
+        "percentage": "74.07"
+      },
+      {
+        "asset": "EPF",
+        "asset_class": "Debt",
+        "market_value": "7000",
+        "monthly_investments": "3500",
+        "percentage": "25.93"
+      }
+    ],
+    "pie": [
+      {
+        "particular": "Equity",
+        "percentage": 0
+      },
+      {
+        "particular": "Real Estate",
+        "percentage": 0
+      },
+      {
+        "particular": "Passive Income Assets",
+        "percentage": 0
+      },
+      {
+        "particular": "Debt",
+        "percentage": 100
+      },
+      {
+        "particular": "Alternative Investments",
+        "percentage": 0
+      }
+    ]
+  },
+  "liabilities": {
+    "table": [
+      {
+        "liability": "Personal Loan",
+        "emi": "10000",
+        "liability_category": "Bad",
+        "outstanding_amount": "60000",
+        "pending_months": 6,
+        "interest_rate": 24,
+        "account_age_in_months": 30
+      },
+      {
+        "liability": "Educational Loan",
+        "emi": "3000",
+        "liability_category": "Good",
+        "outstanding_amount": "400000",
+        "pending_months": 0,
+        "interest_rate": 11.5,
+        "account_age_in_months": 1
+      },
+      {
+        "liability": "Gold Loan",
+        "emi": "1500",
+        "liability_category": "Good",
+        "outstanding_amount": "150000",
+        "pending_months": 0,
+        "interest_rate": 12,
+        "account_age_in_months": 2
+      }
+    ],
+    "pie": [
+      {
+        "particular": "Good liabilities",
+        "percentage": 66
+      },
+      {
+        "particular": "Bad liabilities",
+        "percentage": 10
+      }
+    ],
+    "total": "610000"
+  },
+  "emergency": {
+    "emergency_funds": {
+      "title": "Emergency Funds",
+      "total": "20000",
+      "color": "red",
+      "comment": "In case of an unfavourable event, a lack of liquid assets could jeopardise your financial independence.",
+      "ideal_range": "335500"
+    },
+    "health_insurance": {
+      "title": "Health Insurance",
+      "total": "0",
+      "color": "red",
+      "comment": "Lack of adequate health insurance coverage exposes the family to avoidable financial and emotional strain in the event of an emergency.",
+      "ideal_range": "700000"
+    },
+    "life_insurance": {
+      "title": "Life Insurance",
+      "total": "0",
+      "color": "red",
+      "comment": "Inadequate life cover can be damaging for dependants if the policy owner leaves behind a large amount of liabilities, with only a few assets.",
+      "ideal_range": "13500000"
+    }
+  },
+  "ratios": {
+    "good_liabilities_to_total_assets": {
+      "title": "Good Liabilities-to-Total Assets",
+      "total": "20.3704",
+      "color": "red",
+      "comment": "Going overboard with liabilities defeats the purpose of taking them on, especially if returns on your asset portfolio are low.",
+      "ideal_range": "16.6% - 41.5%"
+    },
+    "bad_liabilities_to_total_assets": {
+      "title": "Bad Liabilities-to-Total Assets",
+      "total": "2.2222",
+      "color": "red",
+      "comment": "High levels of expensive debt translate to paying more interest than is necessary.",
+      "ideal_range": "Up to 3.6%"
+    },
+    "expense_to_income": {
+      "title": "Expense-to-Income",
+      "total": "0.5779",
+      "color": "red",
+      "comment": "An expensive lifestyle can hinder long-term stability and delay financial well-being.",
+      "ideal_range": "Up to 36.9%"
+    },
+    "good_liabilities_linked_emi_to_income": {
+      "title": "Good Liability Linked EMI-to-Income",
+      "total": "0.0628",
+      "color": "red",
+      "comment": "Having only a few good EMIs (or none) may result in excessive interest payments, which is undesirable unless there are higher-return investment opportunities available.",
+      "ideal_range": "12.6% - 31.5%"
+    },
+    "bad_liabilities_linked_emi_to_income": {
+      "title": "Bad Liability Linked EMI-to-Income",
+      "total": "0.1395",
+      "color": "red",
+      "comment": "If the burden of unsecured or high-cost EMI debt is high, it should be repaid quickly, preferably with low-yielding assets.",
+      "ideal_range": "Up to 13.9%"
+    },
+    "investments_to_income": {
+      "title": "Investments-to-Income",
+      "total": "0.0488",
+      "color": "red",
+      "comment": "Inconsistent savings, owing to an inability to delay gratification, leave you financially vulnerable.",
+      "ideal_range": "23.9% - 59.8%"
+    }
+  },
+  "asset_allocation": {
+    "equity": {
+      "title": "Equity",
+      "total": "0",
+      "color": "red",
+      "comment": "Keeping equity allocation low could potentially limit the long-term growth potential of a portfolio and may result in lower returns.",
+      "ideal_range": "26.4% - 67.6%"
+    },
+    "real_estate": {
+      "title": "Real Estate",
+      "total": "0",
+      "color": "green",
+      "comment": "A low real estate allocation misses out on a valuable way to diversify portfolio and generate consistent returns over time.",
+      "ideal_range": "34.3% - 59.3%"
+    },
+    "passive_income_assets": {
+      "title": "Passive Income Assets",
+      "total": "0",
+      "color": "red",
+      "comment": "Keeping very low or no passive income assets may limit one's ability to generate consistent and reliable streams of income in the long term and increase vulnerability to financial risks.",
+      "ideal_range": "3.2% - 29.8%"
+    },
+    "debt": {
+      "title": "Debt",
+      "total": "1",
+      "color": "red",
+      "comment": "Unless there is a short-term financial objective associated with it, excessive exposure to debt instruments might reduce overall portfolio returns.",
+      "ideal_range": "5.6% - 30.6%"
+    },
+    "alternative_investments": {
+      "title": "Alternative Investments",
+      "total": "0",
+      "color": "green",
+      "comment": "Allocating some portion of the portfolio to alternative products provides diversification benefits.",
+      "ideal_range": "Up to 28.9%"
+    }
+  },
+  "networth": {
+    "networth_projection": {
+      "table": [
+        {
+          "year": 2025,
+          "cnwt": -0.04,
+          "nwtet": -0.04
+        },
+        {
+          "year": 2026,
+          "cnwt": 0.05,
+          "nwtet": 0
+        },
+        {
+          "year": 2027,
+          "cnwt": 0.07,
+          "nwtet": 0.04
+        },
+        {
+          "year": 2028,
+          "cnwt": 0.1,
+          "nwtet": 0.09
+        },
+        {
+          "year": 2029,
+          "cnwt": 0.13,
+          "nwtet": 0.15
+        },
+        {
+          "year": 2030,
+          "cnwt": 0.16,
+          "nwtet": 0.22
+        },
+        {
+          "year": 2031,
+          "cnwt": 0.19,
+          "nwtet": 0.31
+        },
+        {
+          "year": 2032,
+          "cnwt": 0.22,
+          "nwtet": 0.42
+        },
+        {
+          "year": 2033,
+          "cnwt": 0.25,
+          "nwtet": 0.54
+        },
+        {
+          "year": 2034,
+          "cnwt": 0.29,
+          "nwtet": 0.69
+        },
+        {
+          "year": 2035,
+          "cnwt": 0.32,
+          "nwtet": 0.87
+        },
+        {
+          "year": 2036,
+          "cnwt": 0.36,
+          "nwtet": 1.07
+        },
+        {
+          "year": 2037,
+          "cnwt": 0.4,
+          "nwtet": 1.31
+        },
+        {
+          "year": 2038,
+          "cnwt": 0.44,
+          "nwtet": 1.6
+        },
+        {
+          "year": 2039,
+          "cnwt": 0.48,
+          "nwtet": 1.92
+        },
+        {
+          "year": 2040,
+          "cnwt": 0.53,
+          "nwtet": 2.32
+        },
+        {
+          "year": 2041,
+          "cnwt": 0.57,
+          "nwtet": 2.78
+        },
+        {
+          "year": 2042,
+          "cnwt": 0.62,
+          "nwtet": 3.33
+        },
+        {
+          "year": 2043,
+          "cnwt": 0.67,
+          "nwtet": 3.99
+        },
+        {
+          "year": 2044,
+          "cnwt": 0.73,
+          "nwtet": 4.76
+        },
+        {
+          "year": 2045,
+          "cnwt": 0.78,
+          "nwtet": 5.67
+        },
+        {
+          "year": 2046,
+          "cnwt": 0.84,
+          "nwtet": 6.75
+        },
+        {
+          "year": 2047,
+          "cnwt": 0.9,
+          "nwtet": 8.01
+        },
+        {
+          "year": 2048,
+          "cnwt": 0.96,
+          "nwtet": 9.48
+        },
+        {
+          "year": 2049,
+          "cnwt": 1.03,
+          "nwtet": 11.2
+        },
+        {
+          "year": 2050,
+          "cnwt": 1.1,
+          "nwtet": 13.09
+        },
+        {
+          "year": 2051,
+          "cnwt": 1.18,
+          "nwtet": 15.15
+        },
+        {
+          "year": 2052,
+          "cnwt": 1.26,
+          "nwtet": 17.42
+        },
+        {
+          "year": 2053,
+          "cnwt": 1.34,
+          "nwtet": 19.88
+        },
+        {
+          "year": 2054,
+          "cnwt": 1.42,
+          "nwtet": 22.58
+        },
+        {
+          "year": 2055,
+          "cnwt": 1.52,
+          "nwtet": 25.51
+        },
+        {
+          "year": 2056,
+          "cnwt": 1.61,
+          "nwtet": 28.7
+        },
+        {
+          "year": 2057,
+          "cnwt": 1.71,
+          "nwtet": 32.16
+        },
+        {
+          "year": 2058,
+          "cnwt": 1.82,
+          "nwtet": 35.93
+        },
+        {
+          "year": 2059,
+          "cnwt": 1.93,
+          "nwtet": 40.02
+        },
+        {
+          "year": 2060,
+          "cnwt": 2.05,
+          "nwtet": 44.26
+        },
+        {
+          "year": 2061,
+          "cnwt": 2.18,
+          "nwtet": 48.69
+        }
+      ],
+      "retirement_month_year": "MAR '2061",
+      "retirement_cnwt": 21800000,
+      "retirement_nwtet": 486900000
+    },
+    "networth": "-583000",
+    "assets": "27000",
+    "liabilities": "610000",
+    "value_under_advisory": "637000"
+  },
+  "bureau_report_summary": {
+    "credit_score_analysis": {
+      "score": "755",
+      "our_evaluation": "Excellent",
+      "commentary": "Well Done. You have an excellent credit score which shows you will be regarded as a responsible credit seeker."
+    },
+    "credit_facilities_taken": [
+      {
+        "type_of_facility": "Auto Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Consumer Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Credit Card",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Education Loan",
+        "total_records": 1,
+        "active_accounts": 1,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Gold Loan",
+        "total_records": 1,
+        "active_accounts": 1,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Housing Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Housing Loan Top-Up",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Other Loan",
+        "total_records": 1,
+        "active_accounts": 1,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Personal Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Personal Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Property Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      },
+      {
+        "type_of_facility": "Two-Wheeler Loan",
+        "total_records": 0,
+        "active_accounts": 0,
+        "closed_accounts": 0,
+        "accounts_with_negative_history": 0
+      }
+    ]
+  },
+  "liability_management": {
+    "table": [
+      {
+        "liability_type": "Good",
+        "current_liability_distribution_emi_percentage": "4500",
+        "current_liability_distribution_outstanding_percentage": "550000",
+        "suggested_emi_range": "42.1193 to 105",
+        "suggested_loan_size_range": "4479 to 11200"
+      },
+      {
+        "liability_type": "Bad",
+        "current_liability_distribution_emi_percentage": "10000",
+        "current_liability_distribution_outstanding_percentage": "60000",
+        "suggested_emi_range": "0 to 22",
+        "suggested_loan_size_range": "0 to 983"
+      }
+    ],
+    "total": {
+      "liability_type": "Total",
+      "current_liability_distribution_emi_percentage": "14500",
+      "current_liability_distribution_outstanding_percentage": "610000",
+      "suggested_emi_range": "42.1193 to 126.8635",
+      "suggested_loan_size_range": "4479.3 to 12182.4"
+    },
+    "comments": [
+      "Your EMI Burden Ratio (EMI by gross monthly income) is very high at 20%.",
+      "Consider bringing down your liabilities and EMI to our suggested range."
+    ]
+  },
+  "mf_holding_evaluation": {
+    "table": [],
+    "total": {
+      "current_value": "0",
+      "fund_evaluation_score": 0,
+      "excess_annual_expense": "0"
+    },
+    "mf_holding_dashboard": {
+      "no_of_funds": {
+        "value": 0,
+        "recommendation": "Excellent! You have an optimum portfolio"
+      },
+      "mf_score": {
+        "value": "0",
+        "status": "LOW"
+      },
+      "mf_allocation": {
+        "equity_percentage": "",
+        "debt_percentage": "",
+        "other_percentage": "",
+        "equity_amount": "",
+        "debt_amount": "",
+        "other_amount": ""
+      },
+      "mf_equity_allocation": {
+        "large_cap_percentage": "",
+        "mid_cap_percentage": "",
+        "small_cap_percentage": "",
+        "large_cap_amount": "",
+        "mid_cap_amount": "",
+        "small_cap_amount": ""
+      },
+      "mf_type": {
+        "direct": {
+          "percentage": "",
+          "value": ""
+        },
+        "regular": {
+          "percentage": "",
+          "value": ""
+        }
+      },
+      "mf_commission_projection": {
+        "annual": "0",
+        "projections": {
+          "five_years": "0",
+          "ten_years": "0",
+          "fifteen_years": "0"
+        }
+      },
+      "mf_overlap": []
+    },
+    "comments1": [
+      "*1 Finance score ranges from 0-100. The table above displays scores of the Direct-Growth plans of the respective schemes.",
+      "**Excess Annual Expense are estimates derived from the difference between expense ratios of regular and direct plans, and current value."
+    ],
+    "comments2": [
+      "100% of your Mutual Fund investments are in Direct plans, which translates to lower expenses and higher returns.",
+      "0% of your equity Mutual Funds (by value) are high quality. Consider removing low/medium quality funds from your portfolio. Our Mutual Fund featured list is available in the \"References\" file in DocuLocker, and an evaluation of all Mutual Funds is available on our Mutual Fund Scoring and Ranking page."
+    ]
+  },
+  "tax_planning": {
+    "financial_year": "Financial Year April 2025 - March 2026",
+    "tax_liability_potential_saving": {
+      "current_taxable_income": "726000",
+      "regime_type": "New Regime",
+      "tax_liability_comparison_table": {
+        "current": [
+          {
+            "tax_regime": "Old",
+            "tax_liability": "65208",
+            "total_tax_payable": "65208",
+            "taxable_income": "751000",
+            "effective_tax_rate": "7.58",
+            "opted": false,
+            "deductions": "0.0"
+          },
+          {
+            "tax_regime": "New",
+            "tax_liability": "0",
+            "total_tax_payable": "0",
+            "taxable_income": "726000",
+            "effective_tax_rate": "0.00",
+            "opted": true,
+            "deductions": "0.0"
+          }
+        ],
+        "after_planning": [
+          {
+            "tax_regime": "New",
+            "tax_liability": "0",
+            "total_tax_payable": "0",
+            "taxable_income": "726000",
+            "effective_tax_rate": "0.00",
+            "deductions": "0.0",
+            "recommended": true
+          },
+          {
+            "tax_regime": "Old",
+            "tax_liability": "65208",
+            "total_tax_payable": "65208",
+            "taxable_income": "751000",
+            "effective_tax_rate": "7.58",
+            "deductions": "0.0",
+            "recommended": false
+          }
+        ]
+      },
+      "no_break_up": [
+        {
+          "tax_regime": "New Regime",
+          "tax_liability": "0",
+          "total_tax_payable": "0",
+          "taxable_income": "726000",
+          "effective_tax_rate": "0.00",
+          "opted": true,
+          "deductions": "0.0",
+          "recommended": true,
+          "tax_comparison": "New Regime"
+        },
+        {
+          "tax_regime": "Old Regime",
+          "tax_liability": "65208",
+          "total_tax_payable": "65208",
+          "taxable_income": "751000",
+          "effective_tax_rate": "7.58",
+          "opted": false,
+          "deductions": "0.0",
+          "recommended": false,
+          "tax_comparison": "Old Regime"
+        }
+      ]
+    },
+    "action_of_this_year": [
+      "You have opted for new regime and based on the details of deductions, it will be beneficial for you to continue with it."
+    ],
+    "tax_deduction_exemption_table": []
+  },
+  "creditcard_evaluation": [],
+  "insurance_policy_evaluation": {
+    "table": [],
+    "total": {
+      "annual_premium": "0",
+      "life_cover": "0",
+      "premium_paid_till_date": "0",
+      "premium_payable": "0",
+      "surrender_value": "",
+      "accured_bonus": "",
+      "top_most_priority_surrender_value": ""
+    },
+    "comment": [],
+    "recommendation_table": [
+      {
+        "plan": "Existing Plan (s)",
+        "cover": "",
+        "annual_premium": ""
+      },
+      {
+        "plan": "Recommended (Term Insurance)",
+        "cover": "",
+        "annual_premium": ""
+      },
+      {
+        "plan": "Net Savings",
+        "cover": "",
+        "annual_premium": "0"
+      }
+    ]
+  },
+  "fwp": [
+    {}
+  ],
+  "next_three_months_action_plan": {
+    "table": [
+      {
+        "particular": "Income",
+        "amount": "215000"
+      },
+      {
+        "particular": "Household & Lifestyle Expenses",
+        "amount": "124250"
+      },
+      {
+        "particular": "Tax Expenses",
+        "amount": "0"
+      },
+      {
+        "particular": "EMIs",
+        "amount": "30000"
+      },
+      {
+        "particular": "Planned Investments",
+        "amount": "10500"
+      },
+      {
+        "particular": "Insurance Premium",
+        "amount": "0"
+      },
+      {
+        "particular": "Surplus for the Period",
+        "amount": "50250"
+      }
+    ],
+    "is_new_action_step":true, 
+    "cashflow_comments_new": [
+      {
+        "name": "Emergency Planning",
+        "comments": [
+          "The ideal emergency fund requirement is ₹8 lakhs against the current corpus of ₹4 lakhs. To bridge this gap, any monthly surplus of ₹15,000–₹20,000 can be invested in the existing Edelweiss Arbitrage Fund until the target is achieved, thereby gradually building the emergency fund to the required level."
+        ]
+      },
+      {
+        "name": "Mutual fund Portfolio",
+        "comments": [
+          "Redeem investments completely from the following funds: Bandhan Large &amp; Mid Cap Fund, ICICI Prudential Large &amp; Mid Cap Fund, Motilal Oswal Large &amp; Midcap Fund, Tata Small Cap Fund, and Quant Large &amp; Mid Cap Fund.","Redeemed money to be reinvested in below funds equally.","Start an SIP of 50k per month in below funds"
+        ]
+      },
+      {
+        "name": "Commodities",
+        "comments": [
+          "Start a monthly investment of ₹5,000 in ICICI Prudential Gold ETF &amp; ₹5,000 in Nippon India Silver ETF. This will help introduce diversification and add an element of stability to the overall portfolio.","Start a monthly investment of ₹5,000 in ICICI Prudential Gold ETF &amp; ₹5,000 in Nippon India Silver ETF. This will help introduce diversification and add an element of stability to the overall portfolio.","Start a monthly investment of ₹5,000 in ICICI Prudential Gold ETF &amp; ₹5,000 in Nippon India Silver ETF. This will help introduce diversification and add an element of stability to the overall portfolio."
+        ]
+      },
+      {
+        "name": "NPS",
+        "comments": [
+          "Increase the NPS contribution from the current ₹5,214 per month to ₹18,375 per month, which is the maximum 14% of basic pay permitted. By contributing an additional ₹78,966 over the next six months, there is a potential tax saving of ₹24,637."
+        ]
+      }
+    ]
+  },
+  "action_plan_summary":{
+    "number_of_actions":"6",
+    "table":[
+      {"particular":"Insurance","timeline":"Dec 2025","action_points":["Get a family floater health insurance policy."],"suggested_amount":["30000"],"financial_impact":"0"},
+      {"particular":"Term Insurance","timeline":"Dec 2025","action_points":["Get a family floater health insurance policy.","Purchase a comprehensive Arogya Sanjeevani policy."],"suggested_amount":["30000","30000"],"financial_impact":"1235"},
+      {"particular":"Emergency Funds","timeline":"Dec 2025","action_points":["Move 2 Lakhs from savings account to Kotak Arbitrage Funds.","Transfer ₹2 Lakhs to HDFC Arbitrage Fund.","Transfer ₹2 Lakhs to ICICI Prudential Arbitrage Fund."],"suggested_amount":["30000","30000","30000"],"financial_impact":"1485622"},
+      {"particular":"Investment Planning","timeline":"Dec 2025","action_points":["Increase SIPs to 80,000 per month in above-mentioned mutual funds."],"suggested_amount":["30000"],"financial_impact":"20000"},
+      {"particular":"Mutual Funds consolidation","timeline":"Dec 2025","action_points":["Redeem all units from UTI Nifty 50 Index Fund."],"suggested_amount":["30000"],"financial_impact":"0"}
+    ],
+    "total":{
+      "particular":"Total Financial Impact",
+      "financial_impact":"16542000"
+    }
+  },
+  "next_quarter_preview": {
+    "actions": [
+      {
+        "category": "Loans",
+        "title": "Getting a new loan with best terms",
+        "description": "Assessing your borrowing needs and financial profile to help you secure the most favourable loan terms available."
+      },
+      {
+        "category": "Investments",
+        "title": "Reviewing your investment portfolio",
+        "description": "Analysing your current investments, identifying areas for optimisation, and suggesting strategies to maximise returns and minimise risk."
+      },
+      {
+        "category": "Insurance",
+        "title": "Getting the right life insurance cover",
+        "description": "Reviewing your recommended life insurance cover, finding the best plan for you, and helping you buy it."
+      }
+    ],
+    "date": "5th Jan, 2026"
+  },
+  "featured_list": {
+    "term_insurance": {
+      "table": [
+        {}
+      ]
+    },
+    "health_insurance": {
+      "table": [
+        {}
+      ]
+    },
+    "equity_mutual_funds": {
+      "large_cap": [
+        {}
+      ],
+      "flexi_cap": [
+        {}
+      ]
+    },
+    "debt_mutual_fund": {
+      "liquid_funds": [
+        {}
+      ],
+      "short_term": [
+        {}
+      ],
+      "dynamic_bond": [
+        {}
+      ]
+    },
+    "hybrid_mutual_fund": {
+      "balanced_advantage": [
+        {}
+      ],
+      "aggressive_hybrid": [
+        {}
+      ],
+      "arbitrage_fund": [
+        {}
+      ]
+    },
+    "credit_card": [
+      {}
+    ],
+    "housing_lenders": [
+      {}
+    ]
+  },
+  "our_assumption": {
+    "assets": [
+      {
+        "asset_class": "Equity",
+        "examples": [
+          "Direct equity",
+          "Equity funds",
+          "International/overseas funds"
+        ],
+        "return_percentage": "10% - 15%",
+        "risk_level": "Moderate to High"
+      },
+      {
+        "asset_class": "Real Estate",
+        "examples": [
+          "Occupied home",
+          "Commercial property",
+          "Land"
+        ],
+        "return_percentage": "5% - 10%",
+        "risk_level": "Low to High"
+      },
+      {
+        "asset_class": "Passive Income Assets",
+        "examples": [
+          "Rental yielding property",
+          "REITs",
+          "InvITs"
+        ],
+        "return_percentage": "7% - 15%",
+        "risk_level": "Low to High"
+      },
+      {
+        "asset_class": "Debt",
+        "examples": [
+          "Safe Deposits",
+          "Debt Funds",
+          "EPF/PPF"
+        ],
+        "return_percentage": "4% - 10%",
+        "risk_level": "Very Low to High"
+      },
+      {
+        "asset_class": "Alternative Investments",
+        "examples": [
+          "Gold",
+          "Digital assets",
+          "Art and Collectibles"
+        ],
+        "return_percentage": "8% - 30%",
+        "risk_level": "Low to Very High"
+      }
+    ],
+    "liabilities_interest_ratio": [
+      {
+        "interest_rate_range": "8% - 12%",
+        "liabilities": "Housing Loan"
+      },
+      {
+        "interest_rate_range": "8% - 12%",
+        "liabilities": "Auto Loan"
+      },
+      {
+        "interest_rate_range": "11% - 15%",
+        "liabilities": "Personal Loan"
+      },
+      {
+        "interest_rate_range": "8% - 12%",
+        "liabilities": "Education Loan"
+      }
+    ],
+    "yoy_growth_to_income": [
+      {
+        "age_range": "26-35",
+        "income_growth": "15%",
+        "life_stage": "Building"
+      },
+      {
+        "age_range": "36-45",
+        "income_growth": "20%",
+        "life_stage": "Growth"
+      },
+      {
+        "age_range": "46-55",
+        "income_growth": "5%",
+        "life_stage": "Sustainability "
+      },
+      {
+        "age_range": "56-60",
+        "income_growth": "-20%",
+        "life_stage": "Pre-Retirement"
+      }
+    ],
+    "yoy_growth_expense": "10%"
+  },
+  "surrender_impact": {
+    "table": [],
+    "total": {
+      "surrender_received": "0",
+      "annual_premium_saved": "0",
+      "commission_saved": "0"
+    },
+    "total_surrender_value_recived": "0",
+    "number_of_policies_nop": "0",
+    "annual_premium_saved": "0",
+    "overall_commission_saved": "0"
+  },
+  "life_insurance_evaluation_summary": {
+    "traditional_life_insurace_table": [
+      {
+        "traditional_life_insurace": "Total Policies (0)",
+        "sum_assured": "0",
+        "premium": "0"
+      },
+      {
+        "traditional_life_insurace": "Policies to be continued (0)",
+        "sum_assured": "0",
+        "premium": "0"
+      },
+      {
+        "traditional_life_insurace": "Policies to be surrendered / stopped (0)",
+        "sum_assured": "0",
+        "premium": "0"
+      }
+    ],
+    "term_insurance_table": [
+      {
+        "term_insurance": "Ideal Cover recommended",
+        "sum_assured": "13500000",
+        "premium": "-"
+      },
+      {
+        "term_insurance": "Existing Cover",
+        "sum_assured": "0",
+        "premium": "-"
+      },
+      {
+        "term_insurance": "Additional Cover recommended",
+        "sum_assured": "13500000",
+        "premium": "11383"
+      }
+    ],
+    "your_coverage_status": "Under Insured",
+    "impact_premium": "-11383"
+  }
+}

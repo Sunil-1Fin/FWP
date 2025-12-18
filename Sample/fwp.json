@@ -1,0 +1,1394 @@
+{
+    "meta": {
+        "name": "AKSHAY AJIT MEHTA",
+        "date": "2025-11-25",
+        "mobile_number": "3000000000"
+    },
+    "money_sign": {
+        "money_sign": "Virtuous Elephant",
+        "money_sign_risk_category": "Medium Risk",
+        "money_sign_desc": "A natural leader, you possess a great sense of practicality and sage wisdom, which makes you capable of deriving original solutions to complicated problems. People look up to you because of your ability to maintain composure during a crisis and your unwavering focus on the end goal. You offer a sense of warmth and belonging to those around you by ensuring that they’re well looked-after and aren’t threatened by external factors. A sharp intellect, great communication skills, and remarkable self-control are the most important tools in your arsenal, accompanied by a spirited attitude.",
+        "money_sign_behavioural_bias": [
+            {
+                "title": "Status Quo Bias",
+                "desc": "You aren’t keen to make changes to your life unless absolutely necessary, and would rather choose options that require minimal effort. This restricts you from exploring more beneficial opportunities. This bias could lead to you sticking to financial instruments that do not align with your financial traits and/or goals, because you’re not considering better options."
+            },
+            {
+                "title": "Endowment Bias",
+                "desc": "You’re prone to placing a higher value on an inherited or purchased asset than its fair market value. Consequently, you might hold on to such assets even if the future prospects are not very positive. Because of this bias, you may continue to stick with assets that you’re familiar with instead of scouting for better opportunities, which would result in an unsuitable asset allocation."
+            },
+            {
+                "title": "Regret-Aversion Bias",
+                "desc": "You worry about incurring losses that arise from independent decision-making, which can either result in a preference for inaction to avoid the sting of regret, or transpire into exhibiting herd behaviour. This bias can cause you to become too conservative in your approach and to default to low-risk or popular financial instruments, which may not be the best choice for achieving your long-term milestones."
+            }
+        ]
+    },
+    "gen_profile": {
+        "gen_profile": "Generation 2",
+        "gen_profile_desc": "Skilled professional with a steady income and cautious outlook, who wants to improve the standard of living.",
+        "life_stage": "Building phase",
+        "life_stage_age_range": "26 - 35",
+        "life_stage_desc": [
+            "Focusing on building a strong foundation",
+            "Growing professional skills and expertise",
+            "Taking on more responsibilities",
+            "Building financial stability"
+        ]
+    },
+    "oneview": {
+        "assets": [
+            {
+                "title": "Equity",
+                "value": "1128430"
+            },
+            {
+                "title": "Real Estate",
+                "value": "0"
+            },
+            {
+                "title": "Passive Income Assets",
+                "value": "80000"
+            },
+            {
+                "title": "Debt",
+                "value": "800000"
+            },
+            {
+                "title": "Alternative Investments",
+                "value": "523456"
+            }
+        ],
+        "liabilities": [
+            {
+                "title": "Good Liabilities",
+                "value": "5343997"
+            },
+            {
+                "title": "Bad Liabilities",
+                "value": "314000"
+            }
+        ],
+        "insurance": [
+            {
+                "title": "Life Insurance",
+                "value": "0"
+            },
+            {
+                "title": "Health Insurance",
+                "value": "0"
+            }
+        ],
+        "income": [
+            {
+                "title": "Regular Income",
+                "value": "1800000"
+            },
+            {
+                "title": "Other Income",
+                "value": "25000"
+            }
+        ],
+        "expense": [
+            {
+                "title": "Fixed Expenses",
+                "value": "589000"
+            },
+            {
+                "title": "Variable Expenses",
+                "value": "427000"
+            },
+            {
+                "title": "Miscellaneous",
+                "value": "50000"
+            },
+            {
+                "title": "Taxes",
+                "value": "108142"
+            }
+        ],
+        "total": {
+            "assets": "2531886",
+            "liabilities": "5657997",
+            "expense": "1174142",
+            "income": "1825000",
+            "insurance": "0"
+        },
+        "fbs": 51
+    },
+    "assets": {
+        "total": {
+            "market_value": "2531886",
+            "monthly_investments": "33979"
+        },
+        "table": [
+            {
+                "asset": "Public Stock (India) 1",
+                "asset_class": "Equity",
+                "market_value": "600000",
+                "monthly_investments": "0",
+                "percentage": "23.7"
+            },
+            {
+                "asset": "Bank FD",
+                "asset_class": "Debt",
+                "market_value": "500000",
+                "monthly_investments": "0",
+                "percentage": "19.75"
+            },
+            {
+                "asset": "EPF",
+                "asset_class": "Debt",
+                "market_value": "300000",
+                "monthly_investments": "10000",
+                "percentage": "11.85"
+            },
+            {
+                "asset": "Public Stock (India) 2",
+                "asset_class": "Equity",
+                "market_value": "300000",
+                "monthly_investments": "0",
+                "percentage": "11.85"
+            },
+            {
+                "asset": "Physical Gold",
+                "asset_class": "Alternative Investment",
+                "market_value": "250000",
+                "monthly_investments": "3456",
+                "percentage": "9.87"
+            },
+            {
+                "asset": "Equity Funds",
+                "asset_class": "Equity",
+                "market_value": "178430",
+                "monthly_investments": "12500",
+                "percentage": "7.05"
+            },
+            {
+                "asset": "Gold ETFs",
+                "asset_class": "Alternative Investment",
+                "market_value": "150000",
+                "monthly_investments": "2345",
+                "percentage": "5.92"
+            },
+            {
+                "asset": "Sovereign Gold Bonds",
+                "asset_class": "Alternative Investment",
+                "market_value": "123456",
+                "monthly_investments": "5678",
+                "percentage": "4.88"
+            },
+            {
+                "asset": "Equity ETFs",
+                "asset_class": "Equity",
+                "market_value": "50000",
+                "monthly_investments": "0",
+                "percentage": "1.97"
+            },
+            {
+                "asset": "REITs/InvITs 1",
+                "asset_class": "Passive Income Assets",
+                "market_value": "50000",
+                "monthly_investments": "0",
+                "percentage": "1.97"
+            },
+            {
+                "asset": "REITs/InvITs 2",
+                "asset_class": "Passive Income Assets",
+                "market_value": "30000",
+                "monthly_investments": "0",
+                "percentage": "1.18"
+            }
+        ],
+        "pie": [
+            {
+                "particular": "Equity",
+                "percentage": 45
+            },
+            {
+                "particular": "Real Estate",
+                "percentage": 0
+            },
+            {
+                "particular": "Passive Income Assets",
+                "percentage": 3
+            },
+            {
+                "particular": "Debt",
+                "percentage": 32
+            },
+            {
+                "particular": "Alternative Investments",
+                "percentage": 21
+            }
+        ]
+    },
+    "liabilities": {
+        "table": [
+            {
+                "liability": "Friend",
+                "emi": "1",
+                "liability_category": "Good",
+                "outstanding_amount": "499997",
+                "pending_months": 15,
+                "interest_rate": 1,
+                "account_age_in_months": 4
+            },
+            {
+                "liability": "Two Wheeler Loan",
+                "emi": "12000",
+                "liability_category": "Bad",
+                "outstanding_amount": "314000",
+                "pending_months": 27,
+                "interest_rate": 13,
+                "account_age_in_months": 9
+            },
+            {
+                "liability": "Housing Loan",
+                "emi": "52000",
+                "liability_category": "Good",
+                "outstanding_amount": "4844000",
+                "pending_months": 235,
+                "interest_rate": 8,
+                "account_age_in_months": 5
+            }
+        ],
+        "pie": [
+            {
+                "particular": "Good liabilities",
+                "percentage": 94
+            },
+            {
+                "particular": "Bad liabilities",
+                "percentage": 6
+            }
+        ],
+        "total": "5657997"
+    },
+    "emergency": {
+        "emergency_funds": {
+            "title": "Emergency Funds",
+            "total": "500000",
+            "color": "red",
+            "comment": "In case of an unfavourable event, a lack of liquid assets could jeopardise your financial independence.",
+            "ideal_range": "917006"
+        },
+        "health_insurance": {
+            "title": "Health Insurance",
+            "total": "0",
+            "color": "red",
+            "comment": "Lack of adequate health insurance coverage exposes the family to avoidable financial and emotional strain in the event of an emergency.",
+            "ideal_range": "1000000"
+        },
+        "life_insurance": {
+            "title": "Life Insurance",
+            "total": "0",
+            "color": "green",
+            "comment": "A sufficient amount of life insurance coverage secures the future of dependents in the event of an unexpected demise.",
+            "ideal_range": "0"
+        }
+    },
+    "ratios": {
+        "good_liabilities_to_total_assets": {
+            "title": "Good Liabilities-to-Total Assets",
+            "total": "2.1107",
+            "color": "red",
+            "comment": "Going overboard with liabilities defeats the purpose of taking them on, especially if returns on your asset portfolio are low.",
+            "ideal_range": "17.2% - 43.1%"
+        },
+        "bad_liabilities_to_total_assets": {
+            "title": "Bad Liabilities-to-Total Assets",
+            "total": "0.124",
+            "color": "red",
+            "comment": "High levels of expensive debt translate to paying more interest than is necessary.",
+            "ideal_range": "Up to 3.3%"
+        },
+        "expense_to_income": {
+            "title": "Expense-to-Income",
+            "total": "0.6434",
+            "color": "red",
+            "comment": "An expensive lifestyle can hinder long-term stability and delay financial well-being.",
+            "ideal_range": "Up to 43.7%"
+        },
+        "good_liabilities_linked_emi_to_income": {
+            "title": "Good Liability Linked EMI-to-Income",
+            "total": "0.3419",
+            "color": "red",
+            "comment": "Maintaining a high debt burden to save on debt interest may be counterproductive because it can result in liquidity problems.",
+            "ideal_range": "13.2% - 32.9%"
+        },
+        "bad_liabilities_linked_emi_to_income": {
+            "title": "Bad Liability Linked EMI-to-Income",
+            "total": "0.0789",
+            "color": "green",
+            "comment": "It is critical to manage bad debt repayment well in order to avoid paying too much interest on high-cost liabilities.",
+            "ideal_range": "Up to 12.2%"
+        },
+        "investments_to_income": {
+            "title": "Investments-to-Income",
+            "total": "0.2234",
+            "color": "green",
+            "comment": "Consistent and substantial savings are essential for laying a solid foundation for a stable future.",
+            "ideal_range": "17.8% - 44.4%"
+        }
+    },
+    "asset_allocation": {
+        "equity": {
+            "title": "Equity",
+            "total": "0.4457",
+            "color": "green",
+            "comment": "Well-balanced equity investment strategy has the potential to generate higher returns with the right risk tolerance.",
+            "ideal_range": "30.8% - 70.5%"
+        },
+        "real_estate": {
+            "title": "Real Estate",
+            "total": "0",
+            "color": "green",
+            "comment": "A low real estate allocation misses out on a valuable way to diversify portfolio and generate consistent returns over time.",
+            "ideal_range": "29% - 54%"
+        },
+        "passive_income_assets": {
+            "title": "Passive Income Assets",
+            "total": "0.0316",
+            "color": "green",
+            "comment": "Maintaining the right passive income asset allocation can help diversify a portfolio, providing a steady stream of income and reducing overall investment risk.",
+            "ideal_range": "3.2% - 29.7%"
+        },
+        "debt": {
+            "title": "Debt",
+            "total": "0.316",
+            "color": "red",
+            "comment": "Unless there is a short-term financial objective associated with it, excessive exposure to debt instruments might reduce overall portfolio returns.",
+            "ideal_range": "5.5% - 30.5%"
+        },
+        "alternative_investments": {
+            "title": "Alternative Investments",
+            "total": "0.2067",
+            "color": "green",
+            "comment": "Allocating some portion of the portfolio to alternative products provides diversification benefits.",
+            "ideal_range": "Up to 29.9%"
+        }
+    },
+    "networth": {
+        "networth_projection": {
+            "table": [
+                {
+                    "year": 2025,
+                    "cnwt": -0.36,
+                    "nwtet": -0.36
+                },
+                {
+                    "year": 2026,
+                    "cnwt": -0.27,
+                    "nwtet": -0.33
+                },
+                {
+                    "year": 2027,
+                    "cnwt": -0.22,
+                    "nwtet": -0.3
+                },
+                {
+                    "year": 2028,
+                    "cnwt": -0.18,
+                    "nwtet": -0.25
+                },
+                {
+                    "year": 2029,
+                    "cnwt": -0.14,
+                    "nwtet": -0.19
+                },
+                {
+                    "year": 2030,
+                    "cnwt": -0.08,
+                    "nwtet": -0.11
+                },
+                {
+                    "year": 2031,
+                    "cnwt": -0.02,
+                    "nwtet": -0.01
+                },
+                {
+                    "year": 2032,
+                    "cnwt": 0.05,
+                    "nwtet": 0.11
+                },
+                {
+                    "year": 2033,
+                    "cnwt": 0.14,
+                    "nwtet": 0.26
+                },
+                {
+                    "year": 2034,
+                    "cnwt": 0.24,
+                    "nwtet": 0.44
+                },
+                {
+                    "year": 2035,
+                    "cnwt": 0.37,
+                    "nwtet": 0.66
+                },
+                {
+                    "year": 2036,
+                    "cnwt": 0.5,
+                    "nwtet": 0.92
+                },
+                {
+                    "year": 2037,
+                    "cnwt": 0.66,
+                    "nwtet": 1.24
+                },
+                {
+                    "year": 2038,
+                    "cnwt": 0.84,
+                    "nwtet": 1.61
+                },
+                {
+                    "year": 2039,
+                    "cnwt": 1.05,
+                    "nwtet": 2.06
+                },
+                {
+                    "year": 2040,
+                    "cnwt": 1.28,
+                    "nwtet": 2.59
+                },
+                {
+                    "year": 2041,
+                    "cnwt": 1.54,
+                    "nwtet": 3.21
+                },
+                {
+                    "year": 2042,
+                    "cnwt": 1.83,
+                    "nwtet": 3.93
+                },
+                {
+                    "year": 2043,
+                    "cnwt": 2.18,
+                    "nwtet": 4.78
+                },
+                {
+                    "year": 2044,
+                    "cnwt": 2.55,
+                    "nwtet": 5.75
+                },
+                {
+                    "year": 2045,
+                    "cnwt": 2.94,
+                    "nwtet": 6.86
+                },
+                {
+                    "year": 2046,
+                    "cnwt": 3.37,
+                    "nwtet": 8.09
+                },
+                {
+                    "year": 2047,
+                    "cnwt": 3.85,
+                    "nwtet": 9.44
+                },
+                {
+                    "year": 2048,
+                    "cnwt": 4.4,
+                    "nwtet": 10.91
+                },
+                {
+                    "year": 2049,
+                    "cnwt": 5.01,
+                    "nwtet": 12.53
+                },
+                {
+                    "year": 2050,
+                    "cnwt": 5.7,
+                    "nwtet": 14.29
+                },
+                {
+                    "year": 2051,
+                    "cnwt": 6.48,
+                    "nwtet": 16.21
+                },
+                {
+                    "year": 2052,
+                    "cnwt": 7.36,
+                    "nwtet": 18.3
+                },
+                {
+                    "year": 2053,
+                    "cnwt": 8.34,
+                    "nwtet": 20.57
+                },
+                {
+                    "year": 2054,
+                    "cnwt": 9.44,
+                    "nwtet": 23.04
+                },
+                {
+                    "year": 2055,
+                    "cnwt": 10.68,
+                    "nwtet": 25.71
+                },
+                {
+                    "year": 2056,
+                    "cnwt": 12.07,
+                    "nwtet": 28.46
+                },
+                {
+                    "year": 2057,
+                    "cnwt": 13.62,
+                    "nwtet": 31.31
+                },
+                {
+                    "year": 2058,
+                    "cnwt": 15.36,
+                    "nwtet": 34.3
+                },
+                {
+                    "year": 2059,
+                    "cnwt": 17.31,
+                    "nwtet": 37.47
+                }
+            ],
+            "retirement_month_year": "MAR '2059",
+            "retirement_cnwt": 173100000,
+            "retirement_nwtet": 374700000
+        },
+        "networth": "-3126111",
+        "assets": "2531886",
+        "liabilities": "5657997",
+        "value_under_advisory": "8189883"
+    },
+    "bureau_report_summary": {
+        "credit_score_analysis": {
+            "score": "807",
+            "our_evaluation": "Outstanding",
+            "commentary": "Congrats. You have an outstanding score and shows you have tremendous discipline."
+        },
+        "credit_facilities_taken": [
+            {
+                "type_of_facility": "Auto Loan",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Consumer Loan",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Credit Card",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Education Loan",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Gold Loan",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Housing Loan",
+                "total_records": 1,
+                "active_accounts": 1,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Housing Loan Top-Up",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Other Loan",
+                "total_records": 1,
+                "active_accounts": 1,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Personal Loan",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Personal Loan",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Property Loan",
+                "total_records": 0,
+                "active_accounts": 0,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            },
+            {
+                "type_of_facility": "Two-Wheeler Loan",
+                "total_records": 1,
+                "active_accounts": 1,
+                "closed_accounts": 0,
+                "accounts_with_negative_history": 0
+            }
+        ]
+    },
+    "liability_management": {
+        "table": [
+            {
+                "liability_type": "Good",
+                "current_liability_distribution_emi_percentage": "52001",
+                "current_liability_distribution_outstanding_percentage": "5343997",
+                "suggested_emi_range": "3957.8406 to 9895",
+                "suggested_loan_size_range": "435991 to 1089977"
+            },
+            {
+                "liability_type": "Bad",
+                "current_liability_distribution_emi_percentage": "12000",
+                "current_liability_distribution_outstanding_percentage": "314000",
+                "suggested_emi_range": "0 to 1823",
+                "suggested_loan_size_range": "0 to 84565"
+            }
+        ],
+        "total": {
+            "liability_type": "Total",
+            "current_liability_distribution_emi_percentage": "64001",
+            "current_liability_distribution_outstanding_percentage": "5657997",
+            "suggested_emi_range": "3957.8406 to 11717.4739",
+            "suggested_loan_size_range": "435990.7692 to 1174541.9154"
+        },
+        "comments": [
+            "Your EMI Burden Ratio (EMI by gross monthly income) is very high at 42%.",
+            "Consider bringing down your liabilities and EMI to our suggested range."
+        ]
+    },
+    "mf_holding_evaluation": {
+        "table": [
+            {
+                "category": "Equity",
+                "current_value": "120425",
+                "scheme_type": "Mid Cap Fund",
+                "plan": "Direct",
+                "fund_evaluation_quality": "Medium",
+                "fund_evaluation_score": 65,
+                "excess_annual_expense": "0",
+                "scheme_name": "Quant Mid Cap Fund"
+            },
+            {
+                "category": "Equity",
+                "current_value": "30381",
+                "scheme_type": "Flexi Cap Fund",
+                "plan": "Direct",
+                "fund_evaluation_quality": "High",
+                "fund_evaluation_score": 83,
+                "excess_annual_expense": "0",
+                "scheme_name": "Parag Parikh Flexi Cap Fund"
+            },
+            {
+                "category": "Equity",
+                "current_value": "19934",
+                "scheme_type": "Small cap Fund",
+                "plan": "Direct",
+                "fund_evaluation_quality": "Medium",
+                "fund_evaluation_score": 69,
+                "excess_annual_expense": "0",
+                "scheme_name": "Quant Small Cap Fund"
+            },
+            {
+                "category": "Equity",
+                "current_value": "5189",
+                "scheme_type": "Index Funds",
+                "plan": "Direct",
+                "fund_evaluation_quality": "High",
+                "fund_evaluation_score": 75,
+                "excess_annual_expense": "0",
+                "scheme_name": "HDFC Nifty500 Multicap 50:25:25 Index Fund"
+            },
+            {
+                "category": "Equity",
+                "current_value": "1492",
+                "scheme_type": "Small cap Fund",
+                "plan": "Direct",
+                "fund_evaluation_quality": "High",
+                "fund_evaluation_score": 81,
+                "excess_annual_expense": "0",
+                "scheme_name": "Bandhan Small Cap Fund"
+            },
+            {
+                "category": "Equity",
+                "current_value": "1008",
+                "scheme_type": "Index Funds",
+                "plan": "Direct",
+                "fund_evaluation_quality": "Medium",
+                "fund_evaluation_score": 66,
+                "excess_annual_expense": "0",
+                "scheme_name": "Motilal Oswal Nifty India Defence Index Fund"
+            }
+        ],
+        "total": {
+            "current_value": "178429",
+            "fund_evaluation_score": 69,
+            "excess_annual_expense": "0"
+        },
+        "mf_holding_dashboard": {
+            "no_of_funds": {
+                "value": 6,
+                "recommendation": "Excellent! You have an optimum portfolio"
+            },
+            "mf_score": {
+                "value": "69",
+                "status": "MEDIUM"
+            },
+            "mf_allocation": {
+                "equity_percentage": "91%",
+                "debt_percentage": "4%",
+                "other_percentage": "5%",
+                "equity_amount": "1.6L",
+                "debt_amount": "7.5K",
+                "other_amount": "9.5K"
+            },
+            "mf_equity_allocation": {
+                "large_cap_percentage": "33%",
+                "mid_cap_percentage": "57%",
+                "small_cap_percentage": "10%",
+                "large_cap_amount": "53.0K",
+                "mid_cap_amount": "92.2K",
+                "small_cap_amount": "16.3K"
+            },
+            "mf_type": {
+                "direct": {
+                    "percentage": "100%",
+                    "value": "1.8L"
+                },
+                "regular": {
+                    "percentage": "",
+                    "value": ""
+                }
+            },
+            "mf_commission_projection": {
+                "annual": "0",
+                "projections": {
+                    "five_years": "0",
+                    "ten_years": "0",
+                    "fifteen_years": "0"
+                }
+            },
+            "mf_overlap": [
+                {
+                    "fund1": "HDFC Nifty500 Multicap 50:25:...",
+                    "fund2": "Parag Parikh Flexi Cap Fund",
+                    "overlap": "24"
+                },
+                {
+                    "fund1": "HDFC Nifty500 Multicap 50:25:...",
+                    "fund2": "Bandhan Small Cap Fund",
+                    "overlap": "15"
+                },
+                {
+                    "fund1": "HDFC Nifty500 Multicap 50:25:...",
+                    "fund2": "Quant Small Cap Fund",
+                    "overlap": "9"
+                },
+                {
+                    "fund1": "HDFC Nifty500 Multicap 50:25:...",
+                    "fund2": "Quant Mid Cap Fund",
+                    "overlap": "9"
+                },
+                {
+                    "fund1": "Quant Small Cap Fund",
+                    "fund2": "Quant Mid Cap Fund",
+                    "overlap": "8"
+                }
+            ]
+        },
+        "comments1": [
+            "*1 Finance score ranges from 0-100. The table above displays scores of the Direct-Growth plans of the respective schemes.",
+            "**Excess Annual Expense are estimates derived from the difference between expense ratios of regular and direct plans, and current value."
+        ],
+        "comments2": [
+            "100% of your Mutual Fund investments are in Direct plans, which translates to lower expenses and higher returns.",
+            "21% of your equity Mutual Funds (by value) are high quality. Consider removing low/medium quality funds from your portfolio. Our Mutual Fund featured list is available in the \"References\" file in DocuLocker, and an evaluation of all Mutual Funds is available on our Mutual Fund Scoring and Ranking page."
+        ]
+    },
+    "tax_planning": {
+        "financial_year": "Financial Year April 2025 - March 2026",
+        "tax_liability_potential_saving": {
+            "current_taxable_income": "1493217",
+            "regime_type": "New Regime",
+            "tax_liability_comparison_table": {
+                "current": [
+                    {
+                        "tax_regime": "Old",
+                        "tax_liability": "245578",
+                        "total_tax_payable": "245578",
+                        "taxable_income": "1412111",
+                        "effective_tax_rate": "13.46",
+                        "opted": false,
+                        "deductions": "205389.0"
+                    },
+                    {
+                        "tax_regime": "New",
+                        "tax_liability": "108141",
+                        "total_tax_payable": "108141",
+                        "taxable_income": "1493217",
+                        "effective_tax_rate": "5.93",
+                        "opted": true,
+                        "deductions": "99283.0"
+                    }
+                ],
+                "after_planning": [
+                    {
+                        "taxable_income": "1010127",
+                        "non_taxable_income": "150000.0",
+                        "standard_deduction": "50000.0",
+                        "total_tax_payable": "120159",
+                        "effective_tax_rate": "6.584054794520548",
+                        "tax_regime": "Old",
+                        "deductions": "607373.0",
+                        "recommended": false
+                    },
+                    {
+                        "taxable_income": "1417500",
+                        "non_taxable_income": "150000.0",
+                        "standard_deduction": "75000.0",
+                        "total_tax_payable": "96330",
+                        "effective_tax_rate": "5.2783561643835615",
+                        "tax_regime": "New",
+                        "deductions": "175000.0",
+                        "recommended": true
+                    }
+                ]
+            },
+            "no_break_up": [],
+            "potential_tax_saving": "11811",
+            "additional_investment": "75717",
+            "recommended_payable_tax": "96330",
+            "current_payable_tax": "108141"
+        },
+        "action_of_this_year": [
+            "You can opt for employer contribution, which is deductible up to 14% of your basic salary (around ₹ 1,75,000 for the remaining financial year). Employer contribution to NPS is also allowed as deduction in the New Tax regime."
+        ],
+        "tax_deduction_exemption_table": [
+            {
+                "section_key": "80ccd2",
+                "is_eligible": false,
+                "tax_class": "Employer contribution to NPS",
+                "tax_class_sub_val": "Section 80CCD (2)",
+                "max_deduction": "175000",
+                "current_utilisation": "99283",
+                "suggested_utilisation": "175000",
+                "suggested_utilisation_additional_val": "75717.0",
+                "priority": 1,
+                "section_sequence": 6
+            },
+            {
+                "tax_class": "",
+                "tax_class_sub_val": "",
+                "max_deduction": "",
+                "current_utilisation": "99283",
+                "suggested_utilisation": "175000",
+                "suggested_utilisation_additional_val": ""
+            }
+        ]
+    },
+    "creditcard_evaluation": [
+        {
+            "annual_fee": "₹5,000 + GST",
+            "name": "Axis Atlas Card",
+            "best_suited_for": "Grocery, Food and Dining, Shopping, Entertainment, Travel",
+            "reward_convertibility": "EDGE Miles conversion rate of 1 EDGE Miles = 2.00 Partner Miles (when transferred to Accor hotels, 1 Partner Miles = ₹1.8)",
+            "complimentary_airport_lounge_acess": [
+                {
+                    "name": "Domestic",
+                    "description": "18 complimentary airport lounge access per year at participating lounges",
+                    "type": "Good"
+                },
+                {
+                    "name": "International",
+                    "description": "12 complimentary airport lounge access per year at participating lounges",
+                    "type": "Good"
+                }
+            ],
+            "category": [
+                {
+                    "name": "Travel",
+                    "description": "Earn EDGE Miles at a rate of 5.0%",
+                    "type": "Good"
+                },
+                {
+                    "name": "Shopping",
+                    "description": "Earn EDGE Reward Points at a rate of 2.0% (10x on Pantaloons, 5x on Nykaa, Tata CLiQ, Croma)",
+                    "type": "Good"
+                },
+                {
+                    "name": "Food and Dining",
+                    "description": "Earn EDGE Miles at a rate of 2.0% (5x on Swiggy)",
+                    "type": "Good"
+                },
+                {
+                    "name": "Grocery",
+                    "description": "Earn EDGE Miles at a rate of 2.0%",
+                    "type": "Good"
+                },
+                {
+                    "name": "Transportation",
+                    "description": "Zero EDGE Miles",
+                    "type": "Bad"
+                },
+                {
+                    "name": "Luxury",
+                    "description": "Zero golf rounds and zero lessons across golf courses",
+                    "type": "Bad"
+                },
+                {
+                    "name": "Entertainment",
+                    "description": "Earn EDGE Miles at a rate of 2.0%",
+                    "type": "Good"
+                }
+            ],
+            "reward_point_redemption": {
+                "flights": "0.00",
+                "vouchers": "0.00",
+                "product_purchases": "0.00",
+                "cashback": "1.00",
+                "air_miles": "0.00",
+                "hotels": "1.80"
+            }
+        },
+        {
+            "annual_fee": "₹12,500 + GST",
+            "name": "HDFC Infinia Metal Card",
+            "best_suited_for": "Grocery, Food and Dining, Shopping, Entertainment, Travel, Luxury",
+            "reward_convertibility": "Reward Points conversion rate of 1 RP = ₹ 1.00",
+            "complimentary_airport_lounge_acess": [
+                {
+                    "name": "Domestic",
+                    "description": "Unlimited complimentary airport lounge access per year at participating lounges",
+                    "type": "Good"
+                },
+                {
+                    "name": "International",
+                    "description": "Unlimited complimentary airport lounge access per year at participating lounges",
+                    "type": "Good"
+                }
+            ],
+            "category": [
+                {
+                    "name": "Travel",
+                    "description": "Earn Reward Points at a rate of 3.3% (5x on flights, 10x on hotels, 3x on trains, 5x on redBus)",
+                    "type": "Good"
+                },
+                {
+                    "name": "Shopping",
+                    "description": "Earn Reward Points at a rate of 3.3% (upto 10x on shopping via SmartBuy)",
+                    "type": "Good"
+                },
+                {
+                    "name": "Food and Dining",
+                    "description": "Earn Reward Points at a rate of 3.3%",
+                    "type": "Good"
+                },
+                {
+                    "name": "Grocery",
+                    "description": "Earn Reward Points at a rate of 3.3%",
+                    "type": "Good"
+                },
+                {
+                    "name": "Transportation",
+                    "description": "Zero Reward Points",
+                    "type": "Bad"
+                },
+                {
+                    "name": "Luxury",
+                    "description": "Unlimited complimentary golf rounds and lessons",
+                    "type": "Good"
+                },
+                {
+                    "name": "Entertainment",
+                    "description": "Earn Reward Points at a rate of 3.3%",
+                    "type": "Good"
+                }
+            ],
+            "reward_point_redemption": {
+                "flights": "1.00",
+                "vouchers": "0.50",
+                "product_purchases": "1.00",
+                "cashback": "0.30",
+                "air_miles": "1.00",
+                "hotels": "1.00"
+            }
+        },
+        {
+            "annual_fee": "Lifetime free",
+            "name": "ICICI Amazon Pay Card",
+            "best_suited_for": "Grocery, Shopping, Entertainment, Travel",
+            "reward_convertibility": "Cashback earned from the card is added to your Amazon Pay balance, which you can use for purchases on Amazon and with partner merchants.",
+            "complimentary_airport_lounge_acess": [
+                {
+                    "name": "Domestic",
+                    "description": "Zero airport lounge access",
+                    "type": "Bad"
+                },
+                {
+                    "name": "International",
+                    "description": "Zero airport lounge access",
+                    "type": "Bad"
+                }
+            ],
+            "category": [
+                {
+                    "name": "Travel",
+                    "description": "Cashback of 1.0% (5% for Amazon Prime members, 4% on ICICI iShop, 3% for Non-Amazon members or 2% on Amazon Pay merchant partners)",
+                    "type": "Good"
+                },
+                {
+                    "name": "Shopping",
+                    "description": "5% for Amazon Prime members, 4% on ICICI iShop, 3% for Non-Amazon members or 2% on Amazon Pay merchant partners",
+                    "type": "Good"
+                },
+                {
+                    "name": "Food and Dining",
+                    "description": "Cashback of 1.0%",
+                    "type": "Bad"
+                },
+                {
+                    "name": "Grocery",
+                    "description": "Cashback of 1.0% (5% for Amazon Prime members, 3% for Non-Amazon members or 2% on Amazon Pay merchant partners)",
+                    "type": "Good"
+                },
+                {
+                    "name": "Transportation",
+                    "description": "Zero Cashback",
+                    "type": "Bad"
+                },
+                {
+                    "name": "Luxury",
+                    "description": "Zero golf rounds and zero lessons across golf courses",
+                    "type": "Bad"
+                },
+                {
+                    "name": "Entertainment",
+                    "description": "Cashback of 1.0% (5% for Amazon Prime members, 3% for Non-Amazon members or 2% on Amazon Pay merchant partners)",
+                    "type": "Good"
+                }
+            ],
+            "reward_point_redemption": {
+                "flights": "0.00",
+                "vouchers": "0.00",
+                "product_purchases": "0.00",
+                "cashback": "1.00",
+                "air_miles": "0.00",
+                "hotels": "0.00"
+            }
+        }
+    ],
+    "insurance_policy_evaluation": {
+        "table": [],
+        "total": {
+            "annual_premium": "0",
+            "life_cover": "0",
+            "premium_paid_till_date": "0",
+            "premium_payable": "0",
+            "surrender_value": "",
+            "accured_bonus": "",
+            "top_most_priority_surrender_value": ""
+        },
+        "comment": [],
+        "recommendation_table": [
+            {
+                "plan": "Existing Plan (s)",
+                "cover": "60000",
+                "annual_premium": "1000"
+            },
+            {
+                "plan": "Recommended (Term Insurance)",
+                "cover": "27000000",
+                "annual_premium": "23403"
+            },
+            {
+                "plan": "Net Savings",
+                "cover": "",
+                "annual_premium": "-22403"
+            }
+        ]
+    },
+    "fwp": [
+        {}
+    ],
+    "next_three_months_action_plan": {
+        "is_new_action_step":false,
+        "table": [
+            {
+                "particular": "Income",
+                "amount": "456250"
+            },
+            {
+                "particular": "Household & Lifestyle Expenses",
+                "amount": "266500"
+            },
+            {
+                "particular": "Tax Expenses",
+                "amount": "27035.5"
+            },
+            {
+                "particular": "EMIs",
+                "amount": "192003"
+            },
+            {
+                "particular": "Planned Investments",
+                "amount": "101937"
+            },
+            {
+                "particular": "Insurance Premium",
+                "amount": "0"
+            },
+            {
+                "particular": "Surplus for the Period",
+                "amount": "-131225.5"
+            }
+        ],
+        "cashflow_comments_old": [
+            {
+                "name": "Emergency Planning",
+                "comments": [
+                    {
+                        "title": "Increase emergency corpus to ₹ 50,000",
+                        "suggestion": "Test"
+                    }
+                ]
+            },
+            {
+                "name": "Expense and Liability Management",
+                "comments": [
+                    {
+                        "title": "fnjkgnjfk",
+                        "suggestion": "sdrefjrifj"
+                    }
+                ]
+            },
+            {
+                "name": "Asset Allocation",
+                "comments": []
+            }
+        ]
+    },
+    "next_quarter_preview": {
+        "actions": [
+            {
+                "category": "Custom",
+                "title": "whudiehbfkjd",
+                "description": "weehf\n\n\n\n"
+            }
+        ],
+        "date": "12th Nov, 2025"
+    },
+    "featured_list": {
+        "term_insurance": {
+            "table": [
+                {}
+            ]
+        },
+        "health_insurance": {
+            "table": [
+                {}
+            ]
+        },
+        "equity_mutual_funds": {
+            "large_cap": [
+                {}
+            ],
+            "flexi_cap": [
+                {}
+            ]
+        },
+        "debt_mutual_fund": {
+            "liquid_funds": [
+                {}
+            ],
+            "short_term": [
+                {}
+            ],
+            "dynamic_bond": [
+                {}
+            ]
+        },
+        "hybrid_mutual_fund": {
+            "balanced_advantage": [
+                {}
+            ],
+            "aggressive_hybrid": [
+                {}
+            ],
+            "arbitrage_fund": [
+                {}
+            ]
+        },
+        "credit_card": [
+            {}
+        ],
+        "housing_lenders": [
+            {}
+        ]
+    },
+    "our_assumption": {
+        "assets": [
+            {
+                "asset_class": "Equity",
+                "examples": [
+                    "Direct equity",
+                    "Equity funds",
+                    "International/overseas funds"
+                ],
+                "return_percentage": "10% - 15%",
+                "risk_level": "Moderate to High"
+            },
+            {
+                "asset_class": "Real Estate",
+                "examples": [
+                    "Occupied home",
+                    "Commercial property",
+                    "Land"
+                ],
+                "return_percentage": "5% - 10%",
+                "risk_level": "Low to High"
+            },
+            {
+                "asset_class": "Passive Income Assets",
+                "examples": [
+                    "Rental yielding property",
+                    "REITs",
+                    "InvITs"
+                ],
+                "return_percentage": "7% - 15%",
+                "risk_level": "Low to High"
+            },
+            {
+                "asset_class": "Debt",
+                "examples": [
+                    "Safe Deposits",
+                    "Debt Funds",
+                    "EPF/PPF"
+                ],
+                "return_percentage": "4% - 10%",
+                "risk_level": "Very Low to High"
+            },
+            {
+                "asset_class": "Alternative Investments",
+                "examples": [
+                    "Gold",
+                    "Digital assets",
+                    "Art and Collectibles"
+                ],
+                "return_percentage": "8% - 30%",
+                "risk_level": "Low to Very High"
+            }
+        ],
+        "liabilities_interest_ratio": [
+            {
+                "interest_rate_range": "8% - 12%",
+                "liabilities": "Housing Loan"
+            },
+            {
+                "interest_rate_range": "8% - 12%",
+                "liabilities": "Auto Loan"
+            },
+            {
+                "interest_rate_range": "11% - 15%",
+                "liabilities": "Personal Loan"
+            },
+            {
+                "interest_rate_range": "8% - 12%",
+                "liabilities": "Education Loan"
+            }
+        ],
+        "yoy_growth_to_income": [
+            {
+                "age_range": "26-35",
+                "income_growth": "15%",
+                "life_stage": "Building"
+            },
+            {
+                "age_range": "36-45",
+                "income_growth": "20%",
+                "life_stage": "Growth"
+            },
+            {
+                "age_range": "46-55",
+                "income_growth": "5%",
+                "life_stage": "Sustainability "
+            },
+            {
+                "age_range": "56-60",
+                "income_growth": "-20%",
+                "life_stage": "Pre-Retirement"
+            }
+        ],
+        "yoy_growth_expense": "10%"
+    },
+    "surrender_impact": {
+        "table": [],
+        "total": {
+            "surrender_received": "0",
+            "annual_premium_saved": "0",
+            "commission_saved": "0"
+        },
+        "total_surrender_value_recived": "0",
+        "number_of_policies_nop": "0",
+        "annual_premium_saved": "0",
+        "overall_commission_saved": "0"
+    },
+    "life_insurance_evaluation_summary": {
+        "traditional_life_insurace_table": [
+            {
+                "traditional_life_insurace": "Total Policies (0)",
+                "sum_assured": "0",
+                "premium": "0"
+            },
+            {
+                "traditional_life_insurace": "Policies to be continued (0)",
+                "sum_assured": "0",
+                "premium": "0"
+            },
+            {
+                "traditional_life_insurace": "Policies to be surrendered / stopped (0)",
+                "sum_assured": "0",
+                "premium": "0"
+            }
+        ],
+        "term_insurance_table": [
+            {
+                "term_insurance": "Ideal Cover recommended",
+                "sum_assured": "0",
+                "premium": "-"
+            },
+            {
+                "term_insurance": "Existing Cover",
+                "sum_assured": "0",
+                "premium": "-"
+            },
+            {
+                "term_insurance": "Additional Cover recommended",
+                "sum_assured": "0",
+                "premium": "0"
+            }
+        ],
+        "your_coverage_status": "Sufficiently Insured",
+        "impact_premium": "0"
+    }
+}
