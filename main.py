@@ -10637,7 +10637,7 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
         for j,item in enumerate(row.get("action_points",[])):
             sub_gap = 6 if j!=0 else 0
             pdf.set_xy(px2MM(625),px2MM(act_y+sub_gap)) 
-            pdf.multi_cell(px2MM(710), px2MM(32),str(item),align='L')
+            pdf.multi_cell(px2MM(710), px2MM(32),str(item.get("points","")),align='L')
             act_y = mm2PX(pdf.get_y())+10
         y3 = mm2PX(pdf.get_y())+10
 
@@ -10695,18 +10695,18 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
         for j,item in enumerate(row.get("action_points",[])):
             sub_gap = 6 if j!=0 else 0
             pdf.set_xy(px2MM(625),px2MM(act_y+sub_gap)) 
-            pdf.multi_cell(px2MM(710), px2MM(32),str(item),align='L')
+            pdf.multi_cell(px2MM(710), px2MM(32),str(item.get("points","")),align='L')
             act_y1 = mm2PX(pdf.get_y())+10
             try :
                 pdf.set_xy(px2MM(1375),px2MM(act_y+sub_gap)) 
                 # pdf.multi_cell(px2MM(195), px2MM(32),str(row.get("suggested_amount",[])[j]),align='R')  
 
-                if str(row.get("suggested_amount",[])[j]) in ('-','0',''):
-                    pdf.multi_cell(px2MM(180), px2MM(32),'₹ 0',align='R')
+                if str(item.get("value","0")) in ('-','0',''):
+                    pdf.multi_cell(px2MM(180), px2MM(32),'₹ 0.0K',align='R')
                 else:
-                    # val1 = str(locale.currency(float(str(row.get("suggested_amount",[])[j])), grouping=True))
+                    # val1 = str(locale.currency(float(str(item.get("value",""))), grouping=True))
                     # val1 = val1.split('.')[0].replace('₹ ','₹').replace('₹','₹ ')
-                    val2 = format_cash2(float(str(row.get("suggested_amount",[])[j])))
+                    val2 = format_cash2(float(str(item.get("value",""))))
                     pdf.multi_cell(px2MM(195), px2MM(32),f"₹ {val2}",align='R') 
             except Exception as e:
                 pass
@@ -10720,7 +10720,7 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
         pdf.set_xy(px2MM(1600),px2MM(y+10)) 
 
         if str(row.get("financial_impact","-")) in ('-','0',''):
-            pdf.multi_cell(px2MM(180), px2MM(32),'₹ 0',align='R')
+            pdf.multi_cell(px2MM(180), px2MM(32),'₹ 0.0K',align='R')
         else:
             # val1 = str(locale.currency(float(str(row.get("financial_impact",""))), grouping=True))
             # val1 = val1.split('.')[0].replace('₹ ','₹').replace('₹','₹ ')

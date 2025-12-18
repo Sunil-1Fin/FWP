@@ -859,11 +859,11 @@
   "action_plan_summary":{
     "number_of_actions":"6",
     "table":[
-      {"particular":"Insurance","timeline":"Dec 2025","action_points":["Get a family floater health insurance policy."],"suggested_amount":["30000"],"financial_impact":"0"},
-      {"particular":"Term Insurance","timeline":"Dec 2025","action_points":["Get a family floater health insurance policy.","Purchase a comprehensive Arogya Sanjeevani policy."],"suggested_amount":["30000","30000"],"financial_impact":"1235"},
-      {"particular":"Emergency Funds","timeline":"Dec 2025","action_points":["Move 2 Lakhs from savings account to Kotak Arbitrage Funds.","Transfer ₹2 Lakhs to HDFC Arbitrage Fund.","Transfer ₹2 Lakhs to ICICI Prudential Arbitrage Fund."],"suggested_amount":["30000","30000","30000"],"financial_impact":"1485622"},
-      {"particular":"Investment Planning","timeline":"Dec 2025","action_points":["Increase SIPs to 80,000 per month in above-mentioned mutual funds."],"suggested_amount":["30000"],"financial_impact":"20000"},
-      {"particular":"Mutual Funds consolidation","timeline":"Dec 2025","action_points":["Redeem all units from UTI Nifty 50 Index Fund."],"suggested_amount":["30000"],"financial_impact":"0"}
+      {"particular":"Insurance","timeline":"Dec 2025","action_points":[{"points":"Get a family floater health insurance policy.","value":"30000"}],"financial_impact":"0"},
+      {"particular":"Term Insurance","timeline":"Dec 2025","action_points":[{"points":"Get a family floater health insurance policy.","value":"30000"},{"points":"Purchase a comprehensive Arogya Sanjeevani policy.","value":"30000"}],"financial_impact":"1235"},
+      {"particular":"Emergency Funds","timeline":"Dec 2025","action_points":[{"points":"Move 2 Lakhs from savings account to Kotak Arbitrage Funds.","value":"30000"},{"points":"Transfer ₹2 Lakhs to HDFC Arbitrage Fund.","value":"30000"},{"points":"Transfer ₹2 Lakhs to ICICI Prudential Arbitrage Fund.","value":"30000"}],"financial_impact":"1485622"},
+      {"particular":"Investment Planning","timeline":"Dec 2025","action_points":[{"points":"Increase SIPs to 80,000 per month in above-mentioned mutual funds.","value":"30000"}],"financial_impact":"20000"},
+      {"particular":"Mutual Funds consolidation","timeline":"Dec 2025","action_points":[{"points":"Redeem all units from UTI Nifty 50 Index Fund.","value":"30000"}],"financial_impact":"0"}
     ],
     "total":{
       "particular":"Total Financial Impact",
