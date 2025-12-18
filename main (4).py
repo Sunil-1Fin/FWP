@@ -9898,7 +9898,7 @@ def cashflow_plan(pdf,json_data,c_MoneyS,money_signData):
     elif cashflow_plan_customer_type == False:
         cashflow_plan_old_customer(pdf,json_data,c_MoneyS,money_signData)
 
-cash_flow_statement = 'Next 3 Months Action Plan'
+
 def cashflow_plan_new_customer(pdf,json_data,c_MoneyS,money_signData):
     try:
         df_cash_flow = pd.DataFrame.from_dict(json_data['next_three_months_action_plan']["table"])
@@ -9930,7 +9930,7 @@ def cashflow_plan_new_customer(pdf,json_data,c_MoneyS,money_signData):
         pdf.set_xy(px2MM(120), px2MM(80))  
         pdf.set_font('LeagueSpartan-SemiBold', size=px2pts(60))
         pdf.set_text_color(*hex2RGB('#1A1A1D'))
-        pdf.cell(px2MM(792), px2MM(84), cash_flow_statement)
+        pdf.cell(px2MM(792), px2MM(84), "Next 3 Months Action Plan")
 
         pdf.set_draw_color(*hex2RGB('#E9EAEE'))
         pdf.set_line_width(px2MM(0.05))
@@ -10141,7 +10141,7 @@ def cashflow_plan_new_customer(pdf,json_data,c_MoneyS,money_signData):
 #         pdf.set_xy(px2MM(120), px2MM(80))  
 #         pdf.set_font('LeagueSpartan-SemiBold', size=px2pts(60))
 #         pdf.set_text_color(*hex2RGB('#1A1A1D'))
-#         pdf.cell(px2MM(792), px2MM(84), cash_flow_statement)
+#         pdf.cell(px2MM(792), px2MM(84), "Next 3 Months Action Plan")
 
 #         pdf.set_draw_color(*hex2RGB('#E9EAEE'))
 #         pdf.set_line_width(px2MM(0.05))
@@ -10322,7 +10322,7 @@ def cashflow_plan_new_customer(pdf,json_data,c_MoneyS,money_signData):
 def cashflow_plan_old_customer(pdf,json_data,c_MoneyS,money_signData):
     try:
         df_cash_flow = pd.DataFrame.from_dict(json_data['next_three_months_action_plan']["table"])
-    except Exception as e:
+    except:
         return None
     
     lcol_val_list = ["Next 3 Months Cashflows"]+list(df_cash_flow["particular"])
@@ -10350,7 +10350,7 @@ def cashflow_plan_old_customer(pdf,json_data,c_MoneyS,money_signData):
         pdf.set_xy(px2MM(120), px2MM(80))  
         pdf.set_font('LeagueSpartan-SemiBold', size=px2pts(60))
         pdf.set_text_color(*hex2RGB('#1A1A1D'))
-        pdf.cell(px2MM(792), px2MM(84), cash_flow_statement)
+        pdf.cell(px2MM(792), px2MM(84), "Next 3 Months Action Plan")
 
         pdf.set_draw_color(*hex2RGB('#E9EAEE'))
         pdf.set_line_width(px2MM(0.05))
@@ -10702,7 +10702,7 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
                 # pdf.multi_cell(px2MM(195), px2MM(32),str(row.get("suggested_amount",[])[j]),align='R')  
 
                 if str(item.get("value","0")) in ('-','0',''):
-                    pdf.multi_cell(px2MM(195), px2MM(32),'₹ 0.0K',align='R')
+                    pdf.multi_cell(px2MM(180), px2MM(32),'₹ 0.0K',align='R')
                 else:
                     # val1 = str(locale.currency(float(str(item.get("value",""))), grouping=True))
                     # val1 = val1.split('.')[0].replace('₹ ','₹').replace('₹','₹ ')
