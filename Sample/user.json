@@ -804,6 +804,10 @@
         "amount": "215000"
       },
       {
+        "particular": "Bonus Ammount",
+        "amount": "1500"
+      },
+      {
         "particular": "Household & Lifestyle Expenses",
         "amount": "124250"
       },
@@ -839,7 +843,19 @@
       {
         "name": "Mutual fund Portfolio",
         "comments": [
-          "Redeem investments completely from the following funds: Bandhan Large &amp; Mid Cap Fund, ICICI Prudential Large &amp; Mid Cap Fund, Motilal Oswal Large &amp; Midcap Fund, Tata Small Cap Fund, and Quant Large &amp; Mid Cap Fund.","Redeemed money to be reinvested in below funds equally.","Start an SIP of 50k per month in below funds"
+          "For Retirement in 24 years, ₹9.5 cr is expected to be a corpus in 24 years. This assumes that expenses will be ₹80,000 (today's value).",
+          "To create this corpus in equity, you need to invest ₹25,000 per month",
+          "in equity mutual funds.",
+          "Invest in the following funds:",
+          "1. SBI Nifty Index - ₹10,000 SIP per month",
+          "2. Kotak Emerging Fund - ₹10,000 SIP per month",
+          "3. Axis Small Cap -₹5,000 per month.",
+          "Note: Usually, a good retirement portfolio should also have a debt",
+          "Note: Usually, a good retirement portfolio should also have a debt",
+          "Note: Usually, a good retirement portfolio should also have a debt",
+          "Note: Usually, a good retirement portfolio should also have a debt",
+          "Note: Usually, a good retirement portfolio should also have a debt",
+          "instrument to cover any market fluctuations, however, since you are"
         ]
       },
       {
@@ -860,8 +876,11 @@
     "number_of_actions":"6",
     "table":[
       {"particular":"Insurance","timeline":"Dec 2025","action_points":[{"points":"Get a family floater health insurance policy.","value":"30000"}],"financial_impact":"0"},
-      {"particular":"Term Insurance","timeline":"Dec 2025","action_points":[{"points":"Get a family floater health insurance policy.","value":"30000"},{"points":"Purchase a comprehensive Arogya Sanjeevani policy.","value":"30000"}],"financial_impact":"1235"},
-      {"particular":"Emergency Funds","timeline":"Dec 2025","action_points":[{"points":"Move 2 Lakhs from savings account to Kotak Arbitrage Funds.","value":"30000"},{"points":"Transfer ₹2 Lakhs to HDFC Arbitrage Fund.","value":"30000"},{"points":"Transfer ₹2 Lakhs to ICICI Prudential Arbitrage Fund.","value":"30000"}],"financial_impact":"1485622"},
+      {"particular":"Insurance","timeline":"Dec 2025","action_points":[{"points":"Get a family floater health insurance policy.","value":"30000"}],"financial_impact":"0"},
+      {"particular":"Insurance","timeline":"Dec 2025","action_points":[{"points":"Get a family floater health insurance policy.","value":"30000"}],"financial_impact":"0"},
+      {"particular":"Insurance","timeline":"Dec 2025","action_points":[{"points":"Get a family floater health insurance policy.","value":"30000"}],"financial_impact":"0"},
+      {"particular":"Term Insurance","timeline":"Dec 2025","action_points":[{"points":"Plan to purchase Rs 2.5Cr for self and Rs 50L for wife. Plan to purchase a life insurance coverage until age of 60 years, and payment until the age of 60 years. Purchase a family floater health insurance that covers new born child from day 0. For maternity payments plan to have a fund of ₹1L. Get a family floater health insurance policy.Plan to purchase Rs 2.5Cr for self and Rs 50L for wife. Plan to purchase a life insurance coverage until age of 60 years, and payment until the age of 60 years.Plan to purchase Rs 2.5Cr for self and Rs 50L for wife. Plan to purchase a life insurance coverage until age of 60 years, and payment until the age of 60 years. Purchase a family floater health insurance that covers new born child from day 0. For maternity payments plan to have a fund of ₹1L. Get a family floater health insurance policy. Purchase a family floater health insurance that covers new born child from day 0. For maternity payments plan to have a fund of ₹1L. Get a family floater health insurance policy.","value":"30000"},{"points":"Purchase a comprehensive Arogya Sanjeevani policy.","value":"30000"}],"financial_impact":"1235"},
+      {"particular":"Emergency Funds","timeline":"Dec 2025","action_points":[{"points":"Move 2 Lakhs from savings account to Kotak Arbitrage Funds.Plan to purchase Rs 2.5Cr for self and Rs 50L for wife. Plan to purchase a life insurance coverage until age of 60 years, and payment until the age of 60 years. Purchase a family floater health insurance that covers new born child from day 0. For maternity payments plan to have a fund of ₹1L. Get a family floater health insurance policy.","value":"30000"},{"points":"Transfer ₹2 Lakhs to HDFC Arbitrage Fund.","value":"30000"},{"points":"Transfer ₹2 Lakhs to ICICI Prudential Arbitrage Fund.","value":"30000"}],"financial_impact":"1485622"},
       {"particular":"Investment Planning","timeline":"Dec 2025","action_points":[{"points":"Increase SIPs to 80,000 per month in above-mentioned mutual funds.","value":"30000"}],"financial_impact":"20000"},
       {"particular":"Mutual Funds consolidation","timeline":"Dec 2025","action_points":[{"points":"Redeem all units from UTI Nifty 50 Index Fund.","value":"30000"}],"financial_impact":"0"}
     ],

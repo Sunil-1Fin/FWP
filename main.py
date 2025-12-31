@@ -10576,10 +10576,10 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
         pdf.set_fill_color(*hex2RGB('#313236'))
         pdf.rect(px2MM(109), px2MM(217), px2MM(252), px2MM(42),'F')
         
-        pdf.set_xy(px2MM(109),px2MM(222)) 
+        pdf.set_xy(px2MM(109),px2MM(217)) 
         pdf.set_font('LeagueSpartan-Medium', size=px2pts(24))
         pdf.set_text_color(*hex2RGB('#ffffff'))
-        pdf.cell(px2MM(252), px2MM(32),f'Number of Actions - {action_plan_summary.get("number_of_actions","0")}',align='C')
+        pdf.cell(px2MM(252), px2MM(42),f'Number of Actions - {action_plan_summary.get("number_of_actions","0")}',align='C')
     
         #//*---Table Header----*//
         pdf.set_fill_color(*hex2RGB('#ffffff'))
@@ -10611,6 +10611,7 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
 
         bl_hight+=72
         add_desclaimer(pdf)
+
         return 331,bl_hight
     
     def add_desclaimer(pdf):
@@ -10618,7 +10619,9 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
         pdf.set_xy(px2MM(740),px2MM(1039))  
         pdf.set_font('Roboto-Regular', size=px2pts(18))
         pdf.set_text_color(*hex2RGB('#1A1A1D'))
-        pdf.multi_cell(px2MM(450), px2MM(21),txt,align='C') 
+        pdf.multi_cell(px2MM(450), px2MM(21),txt,align='C')
+        #//*-----Index Text of Page--**////
+        index_text(pdf,'#1A1A1D')
     
     y,bl_hight = create_page(pdf,action_plan_summary,bl_hight)
 
@@ -10651,29 +10654,31 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
         if max_y > 859:
             pdf.set_fill_color(*hex2RGB('#FCF8ED'))
             pdf.set_text_color(*hex2RGB('#1A1A1D'))
-            pdf.rect(px2MM(0), px2MM(y), px2MM(1920), px2MM(rect_h),'F')
+            pdf.rect(px2MM(0), px2MM(y), px2MM(1920), px2MM(rect_h+200),'F')
             if max_y > 1039:
                 add_desclaimer(pdf)
 
         return rect_h
 
+    row_col = '#F3F6F9'
     pdf.set_text_color(*hex2RGB('#1A1A1D'))
     for i, row in enumerate(action_plan_summary_table):
 
-        rect_h = get_rect_hight(row,y)
-        if 1080-y<221 or (i == len(action_plan_summary_table)-1 and 1080-y<350 ):
+        rect_h = full_rect_h = get_rect_hight(row,y)
+        if y+full_rect_h > 900:
+            rect_h = 900-y
+        # if rect_h > 635:
+        #     continue
+        if 1080-y<221 or (i == len(action_plan_summary_table)-1 and 1080-y<350 ) or y+rect_h >940:
             pdf.set_fill_color(*hex2RGB('#313236'))
-            pdf.rect(px2MM(118), px2MM(259), px2MM(6), px2MM(bl_hight),'F')
+            pdf.rect(px2MM(109), px2MM(259), px2MM(6), px2MM(bl_hight),'F')
             bl_hight = 0
             y,bl_hight = create_page(pdf,action_plan_summary,bl_hight)
             pdf.set_text_color(*hex2RGB('#1A1A1D'))
             #//*-----Index Text of Page--**////
             index_text(pdf,'#1A1A1D')
         
-        if i%2==0:
-            pdf.set_fill_color(*hex2RGB('#F3F6F9'))
-        else:
-            pdf.set_fill_color(*hex2RGB('#ffffff'))
+        pdf.set_fill_color(*hex2RGB(row_col))
 
         pdf.set_font('LeagueSpartan-Regular', size=px2pts(24))
         pdf.set_draw_color(*hex2RGB('#E9EAEE'))
@@ -10688,15 +10693,65 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
         pdf.set_xy(px2MM(425),px2MM(y+10)) 
         pdf.multi_cell(px2MM(170), px2MM(32),str(row.get("timeline","")),align='L')
 
+        #Col 4
+        pdf.rect(px2MM(1590), px2MM(y), px2MM(220), px2MM(rect_h),'FD')
+        pdf.set_xy(px2MM(1600),px2MM(y+10)) 
+
+        if str(row.get("financial_impact","-")) in ('-','0',''):
+            pdf.multi_cell(px2MM(180), px2MM(32),'₹ 0.0K',align='R')
+        else:
+            # val1 = str(locale.currency(float(str(row.get("financial_impact",""))), grouping=True))
+            # val1 = val1.split('.')[0].replace('₹ ','₹').replace('₹','₹ ')
+            val1 = format_cash2(float(str(row.get("financial_impact","0.0"))))
+            pdf.multi_cell(px2MM(180), px2MM(32),f"₹ {val1}",align='R')
+
         #Col 3
         act_y = y+10
         pdf.rect(px2MM(605), px2MM(y), px2MM(750), px2MM(rect_h),'FD')
         pdf.rect(px2MM(1355), px2MM(y), px2MM(235), px2MM(rect_h),'FD')
         for j,item in enumerate(row.get("action_points",[])):
             sub_gap = 6 if j!=0 else 0
+            if act_y > 900:
+                bl_hight+=rect_h
+                full_rect_h = full_rect_h-rect_h
+                if full_rect_h > 563:
+                    rect_h = 563
+                else:
+                    rect_h = full_rect_h
+                    
+                pdf.set_fill_color(*hex2RGB('#313236'))
+                pdf.rect(px2MM(109), px2MM(259), px2MM(6), px2MM(bl_hight),'F')
+                bl_hight = 0
+                y,bl_hight = create_page(pdf,action_plan_summary,bl_hight)
+                pdf.set_text_color(*hex2RGB('#1A1A1D'))
+                #//*-----Index Text of Page--**////
+                index_text(pdf,'#1A1A1D')
+
+                pdf.set_font('LeagueSpartan-Regular', size=px2pts(24))
+                row_col = '#F3F6F9'
+                pdf.set_fill_color(*hex2RGB(row_col))
+
+                #Col 1
+                pdf.rect(px2MM(115), px2MM(y), px2MM(290), px2MM(rect_h),'FD')
+                pdf.set_xy(px2MM(135),px2MM(y+10)) 
+                pdf.multi_cell(px2MM(250), px2MM(32),str(row.get("particular","")),align='L')
+
+                #Col 2
+                pdf.rect(px2MM(405), px2MM(y), px2MM(200), px2MM(rect_h),'FD')
+                pdf.set_xy(px2MM(425),px2MM(y+10)) 
+                pdf.multi_cell(px2MM(170), px2MM(32),str(row.get("timeline","")),align='L')
+
+                act_y = y+10
+                pdf.rect(px2MM(605), px2MM(y), px2MM(750), px2MM(rect_h),'FD')
+                pdf.rect(px2MM(1355), px2MM(y), px2MM(235), px2MM(rect_h),'FD')
+                pdf.rect(px2MM(1590), px2MM(y), px2MM(220), px2MM(rect_h),'FD')
+
+                sub_gap = 0
+            print('\n\n\n parti',act_y+sub_gap,str(item.get("points","")))
             pdf.set_xy(px2MM(625),px2MM(act_y+sub_gap)) 
             pdf.multi_cell(px2MM(710), px2MM(32),str(item.get("points","")),align='L')
             act_y1 = mm2PX(pdf.get_y())+10
+
             try :
                 pdf.set_xy(px2MM(1375),px2MM(act_y+sub_gap)) 
                 # pdf.multi_cell(px2MM(195), px2MM(32),str(row.get("suggested_amount",[])[j]),align='R')  
@@ -10713,22 +10768,9 @@ def action_plan_summary(pdf,json_data,c_MoneyS,money_signData):
             act_y2 = mm2PX(pdf.get_y())+10
             act_y = max(act_y1,act_y2)
 
-
-
-        #Col 4
-        pdf.rect(px2MM(1590), px2MM(y), px2MM(220), px2MM(rect_h),'FD')
-        pdf.set_xy(px2MM(1600),px2MM(y+10)) 
-
-        if str(row.get("financial_impact","-")) in ('-','0',''):
-            pdf.multi_cell(px2MM(180), px2MM(32),'₹ 0.0K',align='R')
-        else:
-            # val1 = str(locale.currency(float(str(row.get("financial_impact",""))), grouping=True))
-            # val1 = val1.split('.')[0].replace('₹ ','₹').replace('₹','₹ ')
-            val1 = format_cash2(float(str(row.get("financial_impact","0.0"))))
-            pdf.multi_cell(px2MM(180), px2MM(32),f"₹ {val1}",align='R')
-
         y+=rect_h
         bl_hight+=rect_h
+        row_col = '#FFFFFF' if row_col == '#F3F6F9' else '#F3F6F9'
 
     #//*---Total----*// 
     pdf.set_fill_color(*hex2RGB('#B9BABE'))
